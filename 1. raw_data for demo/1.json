@@ -1,0 +1,3457 @@
+[
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "metadata_num": 1,
+            "metadata_content": "document_type"
+        },
+        "page_content": {
+            "document_type": "journal article"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "metadata_num": 2,
+            "metadata_content": "document_title"
+        },
+        "page_content": {
+            "document_title": "Effects of Cr and Al/W ratio on the microstructural stability, oxidation property and γ' phase nano-hardness of multi-component Co–Ni-base superalloys"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "metadata_num": 3,
+            "metadata_content": "authors"
+        },
+        "page_content": {
+            "authors": [
+                {
+                    "name": "Wendao Li",
+                    "affiliation": "Beijing Advanced Innovation Center for Materials Genome Engineering, State Key Laboratory for Advanced Metals and Materials, University of Science and Technology Beijing, Beijing, 100083, China"
+                },
+                {
+                    "name": "Longfei Li",
+                    "affiliation": "Beijing Advanced Innovation Center for Materials Genome Engineering, State Key Laboratory for Advanced Metals and Materials, University of Science and Technology Beijing, Beijing, 100083, China"
+                },
+                {
+                    "name": "Stoichko Antonov",
+                    "affiliation": "Beijing Advanced Innovation Center for Materials Genome Engineering, State Key Laboratory for Advanced Metals and Materials, University of Science and Technology Beijing, Beijing, 100083, China"
+                },
+                {
+                    "name": "Fan Lu",
+                    "affiliation": "Beijing Advanced Innovation Center for Materials Genome Engineering, State Key Laboratory for Advanced Metals and Materials, University of Science and Technology Beijing, Beijing, 100083, China"
+                },
+                {
+                    "name": "Qiang Feng",
+                    "affiliation": "Beijing Advanced Innovation Center for Materials Genome Engineering, State Key Laboratory for Advanced Metals and Materials, University of Science and Technology Beijing, Beijing, 100083, China",
+                    "corresponding_author": "True"
+                }
+            ]
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "metadata_num": 4,
+            "metadata_content": "journal information"
+        },
+        "page_content": {
+            "journal information": [
+                {
+                    "journal": "Journal of Alloys and Compounds"
+                },
+                {
+                    "publisher": "Elsevier"
+                },
+                {
+                    "volume": "826",
+                    "year": "2020",
+                    "pages": "154182"
+                },
+                {
+                    "doi": "https://doi.org/10.1016/j.jallcom.2020.154182"
+                }
+            ]
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "metadata_num": 5,
+            "metadata_content": "keywords"
+        },
+        "page_content": {
+            "keywords": [
+                "Co-Ni-base superalloys",
+                "APT",
+                "Partitioning behavior",
+                "Microstructural stability",
+                "Oxidation"
+            ]
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "metadata_num": 6,
+            "metadata_content": "abstract"
+        },
+        "page_content": {
+            "abstract": "Three Co–30Ni-xAl-(15-x)W–1Ta–4Ti-yCr septenary alloys were systematically studied with the aim of developing multiple-component Co–Ni-base alloys with balanced properties. The microstructural stabilities were investigated at 1000 °C and 1100 °C after long-term aging. The experimental results indicate that increasing the Cr content significantly reduces the microstructural stability and promotes the precipitation of μ phase; while increasing Al/W ratio increases the γ' volume fraction and the γ/γ' lattice misfit. At the same time, increasing the Cr content increases the hardness of γ' phase and increasing Al/W ratio shows the opposite effect. The APT results reveal that such effects should be mainly attributed to the change of elemental partitioning behaviors between the γ and γ' phases. Furthermore, increasing the Cr content and Al/W ratio predominantly enhances the oxidation resistance at 1000 °C, resulting in promising oxidation property which is comparable to commercial Ni-base superalloys Waspaloy and Udimet 720. Finally, the well balance of the microstructural stability, alloy density, γ' phase hardness and oxidation resistance can be achieved. This study will be beneficial for the continuous efforts on the development of multi-component Co–Ni-base superalloys for industrial applications."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "0",
+            "section_title": "Abstract",
+            "hierarchy_level": 0,
+            "chunk_number": 1,
+            "total_chunks": 2,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Three Co–30Ni-xAl-(15-x)W–1Ta–4Ti-yCr septenary alloys were systematically studied with the aim of developing multiple-component Co–Ni-base alloys with balanced properties. The microstructural stabilities were investigated at 1000 °C and 1100 °C after long-term aging. The experimental results indicate that increasing the Cr content significantly reduces the microstructural stability and promotes the precipitation of μ phase; while increasing Al/W ratio increases the γ' volume fraction and the γ/γ' lattice misfit. At the same time, increasing the Cr content increases the hardness of γ' phase and increasing Al/W ratio shows the opposite effect. The APT results reveal that such effects should be mainly attributed to the change of elemental partitioning behaviors between the γ and γ' phases."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "0",
+            "section_title": "Abstract",
+            "hierarchy_level": 0,
+            "chunk_number": 2,
+            "total_chunks": 2,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The APT results reveal that such effects should be mainly attributed to the change of elemental partitioning behaviors between the γ and γ' phases. Furthermore, increasing the Cr content and Al/W ratio predominantly enhances the oxidation resistance at 1000 °C, resulting in promising oxidation property which is comparable to commercial Ni-base superalloys Waspaloy and Udimet 720. Finally, the well balance of the microstructural stability, alloy density, γ' phase hardness and oxidation resistance can be achieved. This study will be beneficial for the continuous efforts on the development of multi-component Co–Ni-base superalloys for industrial applications."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "1",
+            "section_title": "1. Introduction",
+            "hierarchy_level": 0,
+            "chunk_number": 1,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Conventional carbide and solid solution strengthened Co-base superalloys have higher melting temperature (by 50-100°C), better fatigue resistance and weldability than Ni-base superalloys [1]. However, due to the absence of a stable γ' strengthening phase, the application of Co-base superalloys at high temperature is more limited than that of γ' strengthened Ni-base superalloys [1]. Co-Al-W alloys with γ' precipitation were first identified in 1971 by Lee [2], and were subsequently rediscovered and systematic studied in 2006 by Sato et al. [3], opening up a new path for further development of Co-base superalloys. Since then, other γ' strengthened Co-base alloys, such as Co-Ti-Cr-base [4], Co-Al-Mo-base [5-7] and Co-Al-V-base alloys [8], have been also developed by different research groups."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "1",
+            "section_title": "1. Introduction",
+            "hierarchy_level": 0,
+            "chunk_number": 2,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Since then, other γ' strengthened Co-base alloys, such as Co-Ti-Cr-base [4], Co-Al-Mo-base [5-7] and Co-Al-V-base alloys [8], have been also developed by different research groups. It has been confirmed that the creep properties of Co-Al-W-base single crystal alloys can be comparable to that of commercial Ni-base single crystal superalloys [9,10]. However, the oxidation resistance at high temperature of this new class of alloys is also essential for their engineering applications. Therefore, many previous studies aimed at elucidating the oxidation behavior and mechanism of Co-Al-W-base alloys [11-19]. Most of these studies focus on the oxidation behavior at 800°C and 900°C [11-17], with very limited data reported for 1000°C [14,18,19]."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "1",
+            "section_title": "1. Introduction",
+            "hierarchy_level": 0,
+            "chunk_number": 3,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Most of these studies focus on the oxidation behavior at 800°C and 900°C [11-17], with very limited data reported for 1000°C [14,18,19]. The understanding of oxidation at 800°C and 900°C is of importance for alloys intended for the use at intermediate temperatures, while temperatures above 1000°C may be more important for accelerating the application of Co-Al-W-base single crystal alloys."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "1",
+            "section_title": "1. Introduction",
+            "hierarchy_level": 0,
+            "chunk_number": 4,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Adding Cr to Co–Al–W-base alloys is one way to improve the oxidation resistance [11,15,16] by promoting the formation of a protective oxide layer, Cr₂O₃, through a similar mechanism to Ni-base single crystal superalloys [20]. However, as the γ/γ' two-phase region of Co–Al–W-base alloys is very narrow [3], the addition of Cr also promotes significant precipitation of brittle secondary phases [21,22], which are deleterious for mechanical properties. To alleviate this problem, most of the reported Cr-containing Co–Al–W-base alloys utilize ~30 at.% Ni additions to improve their microstructural stability [14,17,23–26], as Ni has been shown to enlarge the γ/γ' two-phase region [27]."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "1",
+            "section_title": "1. Introduction",
+            "hierarchy_level": 0,
+            "chunk_number": 5,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "To alleviate this problem, most of the reported Cr-containing Co–Al–W-base alloys utilize ~30 at.% Ni additions to improve their microstructural stability [14,17,23–26], as Ni has been shown to enlarge the γ/γ' two-phase region [27]. Another issue is that the addition of Cr decreases the γ' solvus temperature of Co–Al–W-base alloys, which is essential for the high temperature capability of superalloys. Thus, the addition of Cr to Co–Al–W-base alloys should be optimized carefully."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "1",
+            "section_title": "1. Introduction",
+            "hierarchy_level": 0,
+            "chunk_number": 6,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Al is another element that can improve the oxidation resistance of metals by forming a passive layer, and it typically has synergistic effects with Cr on the formation of protective oxidation layers [28]. In Ni-base superalloys, the Al and Cr contents have already been highly optimized, e.g., the Al and Cr contents of the widely used 2nd Ni-base single crystal superalloy CMSX-4 are 5.6 wt% (12.6 at.%) and 6.5 wt% (7.6 at.%), respectively [20]. On the other hand, the majority of reported Co–Al–W-base alloys contain less than 4 wt% of Al (~10 at.%) [29], and low Cr content to avoid deleterious phases. This indicates that the contents of Al and Cr in Co–Al–W-base alloys need to be further optimized for oxidation resistance and microstructural stability."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "1",
+            "section_title": "1. Introduction",
+            "hierarchy_level": 0,
+            "chunk_number": 7,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "This indicates that the contents of Al and Cr in Co–Al–W-base alloys need to be further optimized for oxidation resistance and microstructural stability. However, the synergistic effects of Al and Cr in Co–Al–W-base alloys has been rarely considered and discussed by previous studies."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "1",
+            "section_title": "1. Introduction",
+            "hierarchy_level": 0,
+            "chunk_number": 8,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Recently, Co–7Al–8W–1Ta–4Ti single crystal alloy with excellent creep properties at high temperature has been developed in our group, and its creep life is longer than 1st generation single crystal superalloy CMSX-3 at 982 °C/248 MPa [9]. In order to promote the engineering application of this alloy, it is necessary to further improve the γ' solvus temperature, microstructural stability and oxidation resistance, as well as reduce the alloy density. Our previous work indicated that the Al/W ratio is an essential parameter for Co–Ni-base alloys. For example, increasing Al/W ratio (1:1 substituting W with Al) could improve the γ' solvus temperature, microstructural stability and reduce the alloy density in alloys with 30 at.% Ni additions [30]."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "1",
+            "section_title": "1. Introduction",
+            "hierarchy_level": 0,
+            "chunk_number": 9,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "On the basis of these results and with aim of improving the oxidation resistance without significantly reducing microstructural stability, three Co–Ni–Al–W–Ta–Ti–Cr alloys with different Cr contents and Al/W ratios were systematically investigated in the present work. The combined effects of Cr and Al/W ratio on the long-term microstructural stability and the elemental partitioning behavior between γ/γ' two-phases, as well as the oxidation behavior at 1000 °C were revealed. In addition, nanoindentation was performed on the γ' phase of these experimental alloys as a preliminary evaluation of mechanical properties, since the γ' phase strengthening plays a critical role for the overall mechanical properties."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "1",
+            "section_title": "1. Introduction",
+            "hierarchy_level": 0,
+            "chunk_number": 10,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "In addition, nanoindentation was performed on the γ' phase of these experimental alloys as a preliminary evaluation of mechanical properties, since the γ' phase strengthening plays a critical role for the overall mechanical properties. This study will be helpful for the alloy design of multi-component Co–Ni-base superalloys to achieve a balanced property profile."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "2",
+            "section_title": "2. Experimental methods",
+            "hierarchy_level": 0,
+            "chunk_number": 1,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Three experimental alloys, Co–30Ni–9Al–6W–1Ta–4Ti–5Cr (5Cr-A), Co–30Ni–9Al–6W–1Ta–4Ti–9Cr (9Cr-A), and Co–30Ni–11Al–4W–1Ta–4Ti–5Cr (5Cr–B) (at.%), were investigated; the alloy names are related to the Cr concentration and Al/W ratio. Alloy ingots were produced by arc melting under argon atmosphere, using elemental metals with purity of 99.99%. Alloy densities were experimentally measured using the water displacement approach based on the Archimedes principle, while the γ' solvus temperature was determined using a NETZSCH STA 449C differential scanning calorimeter (DSC) with a heating rate of 10 °C min⁻¹ between 600 °C and 1300 °C. The alloy bulks were then sealed in quartz tubes filled with Ar gas, and solution heat treated at 1250 °C for 24 h, followed by air cooling."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "2",
+            "section_title": "2. Experimental methods",
+            "hierarchy_level": 0,
+            "chunk_number": 2,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The alloy bulks were then sealed in quartz tubes filled with Ar gas, and solution heat treated at 1250 °C for 24 h, followed by air cooling. Aging treatments were subsequently conducted at 1000 °C for 300–1000 h or at 1100 °C for 300 h, followed by water quenching. Specimens for microstructural observation were etched for 30 s using a solution of 33% HCL + 33% HNO₃ + 34% H₂O at room temperature, and a ZEISS SUPRA 55 field-emission scanning electron microscope (FE-SEM) was used to observe the microstructure. The γ' volume fraction was measured through the standard point count method."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "2",
+            "section_title": "2. Experimental methods",
+            "hierarchy_level": 0,
+            "chunk_number": 3,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The γ/γ' lattice misfit (δ) at room temperature was determined by synchrotron X-ray diffraction at beamline BL14B1 in the Shanghai Synchrotron Radiation Facility (SSRF) with a beam energy of E = 18 keV (λ = 0.6887 nm). The detailed information about beamline BL14B1 can be found in Ref. [31]. The specimens after aging at 1000 °C for 1000 h and with the dimension of 10 × 10 × 1 mm³ were used for the testing. Spot detector was used with a beam size of about 200 × 300 μm². The {111} diffraction pattern was acquired in symmetrical Bragg geometry on the sample surface. After rocking the sample to a certain direction to acquire the strongest intensity of the {111} peak, the diffractometer was used to measure the scattering angle and record measured intensity as a function of 2θ."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "2",
+            "section_title": "2. Experimental methods",
+            "hierarchy_level": 0,
+            "chunk_number": 4,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "After rocking the sample to a certain direction to acquire the strongest intensity of the {111} peak, the diffractometer was used to measure the scattering angle and record measured intensity as a function of 2θ. The data was analyzed with the Jandel Scientific PeakFit computer program using a two-peak model based on three pseudo-Voigt functions."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "2",
+            "section_title": "2. Experimental methods",
+            "hierarchy_level": 0,
+            "chunk_number": 5,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Isothermal oxidation was conducted at 1000 °C for 100 h in laboratory air with a relative humidity of ~40% utilizing a box heat treatment furnace. Each specimen, with dimensions of 10 × 10 × 1 mm³, was put in an individual crucible, resting on one of its sides. All the surfaces of the specimens were polished and then ultrasonically cleaned in ethanol before oxidation testing. The different oxide layers were identified and characterized using a Bruker D8 Advance Da Vinci X-ray diffractometer (XRD) along with X-ray Energy Dispersive Spectroscopy (EDS), which was equipped on the FE-SEM. The oxide layers of alloy 5Cr-A and alloy 9Cr-A were ground into powder for the XRD test, as the oxide layers of these two alloys were too thick compared to the penetration depth of the x-rays."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "2",
+            "section_title": "2. Experimental methods",
+            "hierarchy_level": 0,
+            "chunk_number": 6,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The oxide layers of alloy 5Cr-A and alloy 9Cr-A were ground into powder for the XRD test, as the oxide layers of these two alloys were too thick compared to the penetration depth of the x-rays. The oxide compositions were quantitatively determined using a JEOL JXA-8230 electron probe microanalyzer (EPMA)."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "2",
+            "section_title": "2. Experimental methods",
+            "hierarchy_level": 0,
+            "chunk_number": 7,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Atom probe tomography (APT) was used to investigate the partitioning behavior after long-term aging. The tips were prepared with an apex diameter ~50 nm using a dual-beam focused ion beam (FIB) instrument system (FEI Helios Nanolab 600i). The APT experiments were carried out using a local electrode atom probe (LEAP 5000XR) system in laser pulse mode at a base temperature of 30 K, with an evaporation rate at 0.5%, a laser pulse energy of 40 pJ and frequency of 125 kHz. Data analysis was performed using IVAS 3.8 software."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "2",
+            "section_title": "2. Experimental methods",
+            "hierarchy_level": 0,
+            "chunk_number": 8,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The samples aged at 1000 °C for 1000 h were selected as the bulk specimens for nanoindentation, as the microstructure consisted of coarsened γ' precipitates - enabling separate indentation on single precipitates. The samples were first mechanically polished and then further polished with an electrolytic solution of 80% CH₃OH and 20% H₂SO₄ (by volume) at 20 V for 20 s, in order to ensure complete removal of any plastically deformed layers. Nanoindentation was performed with an Agilent Nano Indenter G200 using the continuous stiffness method (CSM) [32]. The strain rate and Poisson's ratio were 0.05 s⁻¹ and 0.3, respectively, while maximum load displacement was set as 100 nm. The hardness of γ' phase was determined by analyzing the load-displacement curves using the Oliver-Pharr method [33]."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "2",
+            "section_title": "2. Experimental methods",
+            "hierarchy_level": 0,
+            "chunk_number": 9,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 1"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The hardness of γ' phase was determined by analyzing the load-displacement curves using the Oliver-Pharr method [33]. Fig. 1(a) shows a SEM image of a 6 × 5 points grid of nanoindents in alloy 5Cr-A, only the indents that fell completely inside the γ' phase were considered, and are marked with yellow circles. As the γ channels of alloy 5Cr-A and alloy 5Cr–B are too narrow to contain a complete indent, only the value of γ' phase hardness is considered. Fig. 1(b) shows a typical load-displacement curve for nanoindentation in the γ' phase of alloy 5Cr-A. The load-displacement curve shows a pop-in Ref. [34], which is caused by the transition from elastic to plastic deformation, indicating a proper sample preparation and test."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.1",
+            "section_title": "3.1 γ' solvus temperature and alloy density",
+            "hierarchy_level": 1,
+            "chunk_number": 1,
+            "total_chunks": 2,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 1"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "The measured γ' solvus temperatures (Tγ'-solvus) and alloy densities of the experimental alloys are listed in Table 1. Tγ'-solvus of alloy 5Cr-A and alloy 5Cr-B were ~1170 °C, indicating good stability of the γ' phase at high temperature, such as 1000 °C and 1100 °C. The Tγ'-solvus of alloy 5Cr-B with higher Al/W ratio was close to, or even higher than that of alloy 5Cr-A. This is consistent with a previous study, which reveals that increasing the Al/W ratio could increase the Tγ'-solvus in a Co-Ni-base alloy system [30]. At the same time, increasing the Al/W ratio in alloy 5Cr-B effectively reduced the alloy density compared to the other two experimental alloys."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.1",
+            "section_title": "3.1 γ' solvus temperature and alloy density",
+            "hierarchy_level": 1,
+            "chunk_number": 2,
+            "total_chunks": 2,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "At the same time, increasing the Al/W ratio in alloy 5Cr-B effectively reduced the alloy density compared to the other two experimental alloys. As a result, the density of alloy 5Cr-B is 8.77 g cm⁻³, significantly lower than that of other reported Co-Al-W-base alloys with high W content such as Co-9Al-9.8W (9.82 g cm⁻³) [7] and comparable with 2nd generation Ni-base single crystal superalloys, such as CMSX-4 (8.70 g cm⁻³) [20]. Increasing the Cr content for alloy 9Cr-A significantly reduced the Tγ'-solvus, in agreement with previous studies [21,35], and slightly decreased the density."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.2",
+            "section_title": "3.2 Microstructural stability and γ/γ' lattice misfit",
+            "hierarchy_level": 1,
+            "chunk_number": 1,
+            "total_chunks": 5,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 2"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Fig. 2 shows the typical microstructures of the experimental alloys after aging at 1000 °C for 300-1000 h or at 1100 °C for 300 h. At both aging temperatures, alloy 5Cr-A and alloy 5Cr-B consisted of a γ/γ' two-phase microstructure without secondary phase (Fig. 2(a1)-(a3), (c1)-(c3)). However, the higher Cr content in alloy 9Cr-A resulted in the precipitation of μ phase (the white blocky phase in Fig. 2(b1)-(b3)), which was identified by XRD and EPMA, and almost no γ' phase exited in this alloy after aging at 1100 °C for 300 h."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.2",
+            "section_title": "3.2 Microstructural stability and γ/γ' lattice misfit",
+            "hierarchy_level": 1,
+            "chunk_number": 2,
+            "total_chunks": 5,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 2"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "Table 2 summarizes the volume fractions of the various phases after aging at 1000 °C for 300-1000 h or at 1100 °C for 300 h. After aging at 1000 °C for 300 h, the γ' volume fraction of alloy 5Cr-A was 80.4%. The higher Cr content in alloy 9Cr-A significantly reduced the γ' volume fraction to 64.6%; while the higher Al/W ratio in alloy 5Cr-B leaded to a higher γ' volume fraction of 89.9%. After aging at 1000 °C for 1000 h, the γ' volume fraction of alloy 5Cr-A or alloy 5Cr-B remained similar to that after 300 h. However, the longer aging time led to a slight decrease of the γ' volume fraction in alloy 9Cr-A, in lieu of the μ phase. Meanwhile, the γ' precipitates coarsened considerably with longer aging time in all alloys."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.2",
+            "section_title": "3.2 Microstructural stability and γ/γ' lattice misfit",
+            "hierarchy_level": 1,
+            "chunk_number": 3,
+            "total_chunks": 5,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Meanwhile, the γ' precipitates coarsened considerably with longer aging time in all alloys. After aging at 1100 °C for 300 h, the γ' volume fractions of alloy 5Cr-A and alloy 5Cr-B were reduced to 53.4% and 57.7%, respectively, and the γ' phase of alloy 9Cr-A was almost dissolved."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.2",
+            "section_title": "3.2 Microstructural stability and γ/γ' lattice misfit",
+            "hierarchy_level": 1,
+            "chunk_number": 4,
+            "total_chunks": 5,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 2",
+                    "Fig. 3"
+                ],
+                "tables": [
+                    "Table 3"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "Fig. 3 shows the {111} synchrotron diffraction patterns of alloy 5Cr-A and alloy 5Cr-B at room temperature, corresponding to the microstructures shown in Fig. 2(a2) and (c2). Two separated subpeaks can be observed from the raw data, and the left subpeak with a higher intensity was expected to belong to γ' phase due to its higher volume fraction. Table 3 lists the lattice constants of γ and γ' phases (aγ and aγ') determined from the fitted subpeaks and the lattice misfit δ, defined as: $$δ = 2(aγ' - aγ) / (aγ' + aγ)$$ (1) The aγ, aγ' and δ of alloy 5Cr-A were 0.3573 nm, 0.3584 nm and 0.30%, respectively. The higher Al/W ratio of alloy 5Cr-B reduced the aγ and aγ' to 0.3565 nm and 0.3578 nm, respectively, but the δ of this alloy was increased to 0.37%."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.2",
+            "section_title": "3.2 Microstructural stability and γ/γ' lattice misfit",
+            "hierarchy_level": 1,
+            "chunk_number": 5,
+            "total_chunks": 5,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 2"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The higher Al/W ratio of alloy 5Cr-B reduced the aγ and aγ' to 0.3565 nm and 0.3578 nm, respectively, but the δ of this alloy was increased to 0.37%. It should be noted that alloy 9Cr-A was not analyzed since this alloy contained a significant amount of detrimental phases (Fig. 2 (b1 - b3))."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.3",
+            "section_title": "3.3 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 1,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 4"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Fig. 4(a), (b), and (c) show the reconstructed 3DAP specimens of alloy 5Cr-A, alloy 9Cr-A and alloy 5Cr-B after aging at 1000 °C for 1000 h followed by water quenching, respectively. The γ/γ' interfaces of these three alloys are distinguished using 7.6 at.%, 11.0 at.% and 7.9 at.% Cr iso-concentration surfaces, respectively, as Cr predominantly partitions to the γ phase rather than the γ' phase in all of the experimental alloys. Secondary γ' particles are dispersed in the γ matrix, which precipitated during cooling as the solubilities of solute elements at room temperature are commonly lower than that at high temperature [36]. Significant differences of solute distribution exist between the primary γ' phase and γ matrix in all experimental alloys."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.3",
+            "section_title": "3.3 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 2,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "Table 4 lists the APT results of $C_X^{γ'}$ and $C_X^{γ}$, as well as the elemental partitioning coefficient between the γ' and γ phases, $K_{X/γ'}^{γ}$, defined as: $$K^X_{γ'/γ} = C^X_{γ'}/C^X_γ$$ (2) where $C^X_{γ'}$ and $C^X_γ$ are concentrations of element X in the γ' and γ phases, respectively. It should be noted that the $C^X_{γ'}$ is considered as only the primary γ' phase, and the $C^X_γ$ is considered as both the γ phase and secondary γ' phase."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.3",
+            "section_title": "3.3 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 3,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 4"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Fig. 4(d) shows a bar plot of the elemental partitioning coefficients between the γ' and γ phases in all alloys. It reveals that Ni, Al, Ta and Ti partitioned to the γ' phase rather than to the γ phase in these alloys, while Co and Cr have a preference for the γ phase; finally, K^{γ'/γ}_W was closed to 1."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.3",
+            "section_title": "3.3 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 4,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "It reveals that Ni, Al, Ta and Ti partitioned to the γ' phase rather than to the γ phase in these alloys, while Co and Cr have a preference for the γ phase; finally, K^{γ'/γ}_W was closed to 1. The order of elemental partitioning coefficients are as follows: K^{γ'/γ}_{Ta} > K^{γ'/γ}_{Ti} > K^{γ'/γ}_{Al} > K^{γ'/γ}_{Ni} > K^{γ'/γ}_{W} ≈ 1 > K^{γ'/γ}_{Co} > K^{γ'/γ}_{Cr}. Comparing alloy 5Cr-A and alloy 9Cr-A suggests that increasing Cr content had an effect on the partitioning behavior of most elements, resulting in the increase of K^{γ'/γ}_{Al}, K^{γ'/γ}_{Ti}, K^{γ'/γ}_{Ta} and the decrease of the K^{γ'/γ}_{W}. However, increasing Cr did not appreciably affect K^{γ'/γ}_{Co} and K^{γ'/γ}_{Ni}. On the other hand, increasing the Al/W ratio noticeably increased K^{γ'/γ}_{Ni}, in contrast to K^{γ'/γ}_{Co}, but had no appreciable effect on K^{γ'/γ}_{Ti}, K^{γ'/γ}_{Ta} and K^{γ'/γ}_{Cr}."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.3",
+            "section_title": "3.3 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 5,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 5"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "In alloy systems consisting of two-phase microstructure, the lever rule based on the mass balance equation can be used to calculate the mole fraction from the elemental concentrations in each phase and the nominal alloy composition. The mole fraction of γ' phase can thus be estimated by the slope of a line following: $$(C^X_{alloy} - C^X_γ) = f_{γ'} (C^X_{γ'} - C^X_γ)$$ (3) where f_{γ'} is the mole fractions of γ' phase (the slope); C^X_{alloy} is the nominal concentration of element X in the alloys. Such a plot for alloy 5Cr-A and alloy 5Cr−B is given in Fig. 5. The data of alloy 9Cr-A was not considered due to the precipitation of μ phase."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.3",
+            "section_title": "3.3 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 6,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 2"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "The data of alloy 9Cr-A was not considered due to the precipitation of μ phase. Using linear regression analysis, the γ' mole fractions of alloy 5Cr-A and alloy 5Cr−B are calculated as 75.7 ± 3.4% and 84.7 ± 2.5%, respectively (These values are also listed in Table 2). The γ' contents from APT analysis and SEM image analysis exhibit ~5% error, which may come from the deviation between 2D image analysis and 3D volume fraction, as well as the deviation between mole fraction and volume fraction."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.4",
+            "section_title": "3.4 Oxidation properties",
+            "hierarchy_level": 1,
+            "chunk_number": 1,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 6"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Fig. 6(a) shows the mass gain curves of the experimental alloys after isothermal oxidation at 1000 °C for up to 100 h. It reveals that increasing either the Cr content or Al/W ratio could significantly enhance the oxidation resistance at 1000 °C, and that alloy 5Cr−B with the higher Al/W ratio exhibits the best oxidation resistance compared to other two alloys."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.4",
+            "section_title": "3.4 Oxidation properties",
+            "hierarchy_level": 1,
+            "chunk_number": 2,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 6"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Fig. 6(b) shows the mass gain per surface area of the experimental alloys (red bars) after isothermal oxidation at 1000 °C for 100 h in air, compared to other Co−Al−W-base alloys (cyan bars) [18,19] and commercial Ni-base superalloys (green bars) [37,38]. It should be noted that only limited data on the isothermal oxidation of Co−Al−W-base alloys at 1000 °C is available so far [18,19], especially in multiple components alloy system. Fig. 6(b) indicates that the oxidation resistances of alloy 5Cr−B and alloy 9Cr-A are much better than those reported for Cr-free Co−Al−W-base alloys [18,19]."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.4",
+            "section_title": "3.4 Oxidation properties",
+            "hierarchy_level": 1,
+            "chunk_number": 3,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 6"
+                ],
+                "tables": [
+                    "Table 1"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "Fig. 6(b) indicates that the oxidation resistances of alloy 5Cr−B and alloy 9Cr-A are much better than those reported for Cr-free Co−Al−W-base alloys [18,19]. In addition, they are comparable with commercial Ni-base superalloys Waspaloy and Udimet 720 [37] under the same oxidation condition, however, further improvement is needed in comparison with 1st and 2nd generation single crystal superalloy CMXS-6 and CMSX-4 [38]. It should be noted that, the higher Cr content could lead to a significant reduction of T_{γ'-solvus} (Table 1), limiting its temperature capability. Thus, the Cr content of Co−Ni-base alloys should be carefully controlled when aiming for high temperature capability."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.5",
+            "section_title": "3.5 Structure and composition of the oxide layers",
+            "hierarchy_level": 1,
+            "chunk_number": 1,
+            "total_chunks": 7,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 7",
+                    "Fig. 8",
+                    "Fig. 9"
+                ],
+                "tables": [
+                    "Table 5"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "Fig. 7(a)–(c) shows the back-scattered electron (BSE) SEM images of the oxide scales of the experimental alloys after isothermal oxidation at 1000 °C for 100 h in air. The types of oxides were identified by XRD (Fig. 7(d)) and EDS mapping (Fig. 8, Fig. 9), as well as EPMA (Table 5). The EDS maps for alloy 9Cr-A were not included as they show similar elemental distribution in the oxide layers as alloy 5Cr-A. Table 5 lists the thickness of the oxide layers and the oxide compositions, which were determined by EPMA quantitative analysis. As the thickness of the oxide layers of alloy 5Cr–B were very thin, the oxide compositions were hard to be accurately determined by EPMA. Therefore, the EDS mapping were also used to support the XRD result for the indentation of oxides."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.5",
+            "section_title": "3.5 Structure and composition of the oxide layers",
+            "hierarchy_level": 1,
+            "chunk_number": 2,
+            "total_chunks": 7,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 7"
+                ],
+                "tables": [
+                    "Table 5"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "Therefore, the EDS mapping were also used to support the XRD result for the indentation of oxides. Fig. 7(a) shows an external oxide scale (~24.4 μm in thickness) consisted of three different oxide layers in alloy 5Cr-A. The outermost layer was identified as (Co, Ni)O type (~13.8 μm in thickness), which enriched in Co, Ni and O (Table 5). The intermediate layer was identified as (Co, Ni)₂(Ti, Al)O₄ spinel type oxide (~5.9 μm in thickness), which enriched in O, Ti and Co. The inner oxide scale was determined as Cr₂O₃ (~4.7 μm in thickness), which enriched Cr and O. It should be pointed out that, although the Cr₂O₃ layer is seems continuous, it is porous and therefore cannot provide adequate protection from oxidation at high temperature."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.5",
+            "section_title": "3.5 Structure and composition of the oxide layers",
+            "hierarchy_level": 1,
+            "chunk_number": 3,
+            "total_chunks": 7,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 7"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The intermediate layer was identified as (Co, Ni)₂(Ti, Al)O₄ spinel type oxide (~5.9 μm in thickness), which enriched in O, Ti and Co. The inner oxide scale was determined as Cr₂O₃ (~4.7 μm in thickness), which enriched Cr and O. It should be pointed out that, although the Cr₂O₃ layer is seems continuous, it is porous and therefore cannot provide adequate protection from oxidation at high temperature. Fig. 7(a) also shows an internal oxide zone with a thickness of ~34.2 μm under the external oxide scale. These internal oxides are mainly enriched with O and Al, as well as moderate amounts of Ti, indicating that they were either Al₂O₃, TiO₂, or a mixture of these oxides. Compared to alloy 5Cr-A, alloy 9Cr-A has similar microstructural characteristics as shown in Fig. 7(b)."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.5",
+            "section_title": "3.5 Structure and composition of the oxide layers",
+            "hierarchy_level": 1,
+            "chunk_number": 4,
+            "total_chunks": 7,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 7"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Compared to alloy 5Cr-A, alloy 9Cr-A has similar microstructural characteristics as shown in Fig. 7(b). It is interesting to note that both the external and internal scales of alloy 9Cr-A were thinner than those of alloy 5Cr-A."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.5",
+            "section_title": "3.5 Structure and composition of the oxide layers",
+            "hierarchy_level": 1,
+            "chunk_number": 5,
+            "total_chunks": 7,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 7"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Compared to alloy 5Cr-A and alloy 9Cr-A, alloy 5Cr-B had a distinctly thinner oxide scale (~5.3 μm in thickness), which had different microstructural characteristics, as shown in Fig. 7(c). Instead of internal Al₂O₃ particles, a dense continuous Al₂O₃ layer with a thickness of 1.3 μm formed adjacent to the alloy matrix. The oxide scale of alloy 5Cr-B generally consisted of four layers - (Co, Ni)O layer, (Co, Ni)₂(Ti, Al)O₄ layer, Cr₂O₃ layer and Al₂O₃ layer, from the outside to the inside. It should be noted that a very thin, mixed oxide scale (bright contrast) formed between the Cr₂O₃ layer and Al₂O₃ layer."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.5",
+            "section_title": "3.5 Structure and composition of the oxide layers",
+            "hierarchy_level": 1,
+            "chunk_number": 6,
+            "total_chunks": 7,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 8",
+                    "Fig. 9"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "It should be noted that a very thin, mixed oxide scale (bright contrast) formed between the Cr₂O₃ layer and Al₂O₃ layer. The oxide precipitates of this scale were too fine to accurately determine their composition; however, EDS analysis indicated that they were enriched with O, Ti, Ta and W (Fig. 9), suggesting that they are an oxide of these elements. In addition, some particles enriched in Ti but not O can be observed in areas adjacent to the matrix (Figs. 8 and 9), it can be deduced that these particles are TiN, according to their morphology and previous studies that focus on the internal nitridation of Co-Ti-base alloys [39] and Ni-Ti-base alloys [40]."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.5",
+            "section_title": "3.5 Structure and composition of the oxide layers",
+            "hierarchy_level": 1,
+            "chunk_number": 7,
+            "total_chunks": 7,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 7"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "All the above identifications of oxides were consistent with the XRD results (Fig. 7(d)). The peaks of CoO, Co₂TiO₄, TiO₂, Cr₂O₃ and Al₂O₃ were observed in each alloy. For alloy 5Cr-A and alloy 9Cr-A, the peak of CoO and Co₂TiO₄ were very strong as the contents of these oxides were much higher than other oxides. However, the peak of Al₂O₃ was faint, this is because that Al₂O₃ was internal oxide in alloy 5Cr-A and alloy 9Cr-A. The peak of matrix was not observed in these two alloys, since the powder for the XRD test contained only oxide scale. For alloy 5Cr-B, besides the above oxides, the peak of matrix was also observed, and it was the strongest peak, indicating that the x-ray penetrated the oxide scale of alloy 5Cr-B completely."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.6",
+            "section_title": "3.6 γ' phase nano-hardness",
+            "hierarchy_level": 1,
+            "chunk_number": 1,
+            "total_chunks": 2,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 10"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Fig. 10 shows the results of nanoindentation for the experimental alloys after heat treatment at 1000 °C for 1000 h in comparison with a 2nd generation Ni-base single crystal superalloy CMSX-4 [41] and other Co-Ni-Al-W-base alloys [30] under the same or close maximum load in this study. Compared with the Cr-free alloys Co-30Ni-9Al-6W-1Ta-4Ti and Co-30Ni-11Al-4W-1Ta-4Ti, the present alloy 5Cr-A and alloy 5Cr-B with Cr additions exhibited higher hardness of the γ' phase. Furthermore, the higher level of Cr addition in alloy 9Cr-A further improved the γ' phase hardness over that of alloy 5Cr-A; while the higher Al/W ratio in alloy 5Cr-B slightly softened the γ' phase."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "3.6",
+            "section_title": "3.6 γ' phase nano-hardness",
+            "hierarchy_level": 1,
+            "chunk_number": 2,
+            "total_chunks": 2,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Furthermore, the higher level of Cr addition in alloy 9Cr-A further improved the γ' phase hardness over that of alloy 5Cr-A; while the higher Al/W ratio in alloy 5Cr-B slightly softened the γ' phase. Finally, the hardness of γ' phase in current experimental alloys are comparable with that of 2nd generation Ni-base superalloy CMSX-4, suggesting a good γ' strength of the current experimental alloys."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4",
+            "section_title": "4. Discussion",
+            "hierarchy_level": 0,
+            "chunk_number": 1,
+            "total_chunks": 1,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Microstructural stability, oxidation resistance and the hardness of γ' phase are important for the evaluation of newly designed Co-base superalloys. All these characteristic parameters are associated with the elemental partitioning behavior. With the aim of elucidating the effects of Cr and Al/W ratio on the parameters mentioned above, the following discussion were addressed."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.1",
+            "section_title": "4.1 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 1,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The elemental partitioning behavior is crucial for superalloys as it dominates not only the lattice parameters of γ and γ' phases, but also the thermodynamic stability and mechanical behavior of the γ and γ' phases [20]. Therefore, many studies have investigated the elemental partitioning between phases in Co-Al-W-base alloys as part of the development of these new materials [22,24,27,35,42-45]. However, most of these researches have focused on quaternary alloy systems [22,27,35,42-44], often aged for short-term [24,27,35,42-45], such as 40-200 h. Thus, research on the elemental partitioning behavior after long-term aging (closer to equilibrium), such as 1000 h, is still limited [22], especially in multiple-component alloy systems."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.1",
+            "section_title": "4.1 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 2,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Generally, the magnitude of $K_{γ'/γ}^X$ in Co–Al–W-base alloys is determined by the formation energy of the L1₂ structured Co₃X phase. The more negative the formation energy, the larger the magnitude of $K_{γ'/γ}^X$. The first-principles study by Omori at el [35]. shows that the formation energies of Co₃Al, Co₃W, Co₃Ti, Co₃Ta, Co₃Ni and Co₃Cr with L1₂ structure are -17.97, -4.81, -25.88, -23.44, 0.50 and 2.36 kJ/mol, respectively, suggesting that Al, W, Ti and Ta are expected to partition to the γ' phase in Co–Al–W-base alloys, in contrast to Ni and Cr. However, this is just an idealistic analysis, which could be moderately different for various cases."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.1",
+            "section_title": "4.1 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 3,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "However, this is just an idealistic analysis, which could be moderately different for various cases. In alloy 5Cr-A, the magnitude order of $K_{γ'/γ}^{Ta}$, $K_{γ'/γ}^{Ti}$, $K_{γ'/γ}^{Al}$, $K_{γ'/γ}^W$ and $K_{γ'/γ}^{Cr}$ listed in Table 4 is consistent with the calculated formation energies of Co₃Al, Co₃Ti, Co₃Ta and Co₃Cr reported by Omori at el [35]. However, Ni also preferred to segregate to the γ' phase in 5Cr-A, contradicting the positive value of the formation energy of Co₃Ni. This may be attributed to that Ni atom occupies the Co site instead of X site in Co₃X compound with L1₂ type [36], which could reduce the formation energy of Co₃(Al, W) [46]."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.1",
+            "section_title": "4.1 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 4,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "In Co–Al–W ternary alloys, the values of $K_{γ'/γ}^{Al}$ and $K_{γ'/γ}^W$ are commonly close to 1.0 and 2.0, respectively [35,42,47], indicating that W has a higher driving force for distributing to the γ' phase compared to Al. While the addition of Ni can increase the $K_{γ'/γ}^{Al}$ and reduce the $K_{γ'/γ}^W$ in Co–Ni-base alloys, compared with the Co–Al–W-base alloys [27]. Furthermore, the addition of Cr has the similar effects to that of Ni in Co–Ni-base alloys [22,45,48]. In this study, the $K_{γ'/γ}^{Al}$ and $K_{γ'/γ}^W$ of the experimental alloys are close to 1.6 and 1.0 (Table 4), distinctly different from those of Co–Al–W ternary alloys."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.1",
+            "section_title": "4.1 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 5,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "In this study, the $K_{γ'/γ}^{Al}$ and $K_{γ'/γ}^W$ of the experimental alloys are close to 1.6 and 1.0 (Table 4), distinctly different from those of Co–Al–W ternary alloys. These differences are mainly due to the additions of Ni and Cr, both of which can increase the $K_{γ'/γ}^{Al}$ and reduce the $K_{γ'/γ}^W$, as mentioned above. Zenk et al. [49] compared the partitioning behavior of Co-xNi-9Al–8W–8Cr alloys after aging at 900 °C with that of Co-xNi-10Al-7.5W alloys by Shinagawa et al. [27], and found that the partitioning of Ni and Co to the respective preferred phase seems to be more pronounced when Cr is present in the alloys."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.1",
+            "section_title": "4.1 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 6,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Zenk et al. [49] compared the partitioning behavior of Co-xNi-9Al–8W–8Cr alloys after aging at 900 °C with that of Co-xNi-10Al-7.5W alloys by Shinagawa et al. [27], and found that the partitioning of Ni and Co to the respective preferred phase seems to be more pronounced when Cr is present in the alloys. But in the current Co–30Ni–11Al–8W–1Ta–4Ti-xCr alloys, increasing Cr content from 5% to 9% did not appreciably affect the $K_{γ'/γ}^{Co}$ and $K_{γ'/γ}^{Ni}$. The reason could be that the increment of Cr content was too small to result in a visible partitioning change of Co and Ni. The data reported by Pandey at el [48]. indicate that increasing Cr content had no appreciable effect on $K_{γ'/γ}^{Ta}$ and $K_{γ'/γ}^{Ti}$ in Co–30Ni–10Al–5Mo–2Ta–2Ti-xCr system."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.1",
+            "section_title": "4.1 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 7,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 4"
+                ],
+                "tables": [
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "The data reported by Pandey at el [48]. indicate that increasing Cr content had no appreciable effect on $K_{γ'/γ}^{Ta}$ and $K_{γ'/γ}^{Ti}$ in Co–30Ni–10Al–5Mo–2Ta–2Ti-xCr system. However, the present results indicate that increasing the Cr content resulted in an increase of the $K_{γ'/γ}^{Ta}$ and $K_{γ'/γ}^{Ti}$ (Fig. 4(d), Table 4). According to above discussion, it is clear that the additional Cr can result in higher $K_{γ'/γ}^{Al}$ and $K_{γ'/γ}^{Ti}$ and lower $K_{γ'/γ}^W$, but the effects of Cr on the $K_{γ'/γ}^{Co}$, $K_{γ'/γ}^{Ni}$, $K_{γ'/γ}^{Ta}$ and $K_{γ'/γ}^{Ti}$ still need to further confirmed with more experimental data."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.1",
+            "section_title": "4.1 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 8,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "According to above discussion, it is clear that the additional Cr can result in higher $K_{γ'/γ}^{Al}$ and $K_{γ'/γ}^{Ti}$ and lower $K_{γ'/γ}^W$, but the effects of Cr on the $K_{γ'/γ}^{Co}$, $K_{γ'/γ}^{Ni}$, $K_{γ'/γ}^{Ta}$ and $K_{γ'/γ}^{Ti}$ still need to further confirmed with more experimental data. The differences of $K_{γ'/γ}^{Al}$ and $K_{γ'/γ}^W$ between Co–Al–W-base and Co–Ni–Al–W–Cr-base alloys must be taken into account in the design of these alloys, as Al and W are essential γ' forming elements in Co-base superalloys. It should be noted that the elemental partitioning behaviors of present Co–Ni-base alloys were somehow closer to that of Ni-base superalloys [50], compared with that of Co–Al–W-base alloys."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.1",
+            "section_title": "4.1 Elemental partitioning behavior between the γ' and γ phases",
+            "hierarchy_level": 1,
+            "chunk_number": 9,
+            "total_chunks": 9,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "It should be noted that the elemental partitioning behaviors of present Co–Ni-base alloys were somehow closer to that of Ni-base superalloys [50], compared with that of Co–Al–W-base alloys. In addition, the equilibrium data in this study will be helpful for bridging the knowledge gap in the thermodynamic database."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.2",
+            "section_title": "4.2 γ/γ' lattice misfit",
+            "hierarchy_level": 1,
+            "chunk_number": 1,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The γ/γ' lattice misfit (δ) plays an important role in superalloys, it significantly affects the γ' morphology, high temperature creep and fatigue resistance, as well as the coarsening rate of γ' phase during aging [51]. In general, the δ primarily depends on the composition of γ and γ' phases, and also influenced by the elemental site occupancy in the γ' phase [48]."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.2",
+            "section_title": "4.2 γ/γ' lattice misfit",
+            "hierarchy_level": 1,
+            "chunk_number": 2,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 3",
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "The present results shows that the δ increased with increasing Al/W ratio (Table 3), which is mainly due to the compositional change of the γ' and γ phases [52]. For example, for alloy 5Cr-A and alloy 5Cr-B, after aging at 1000 °C for 1000 h, by increasing the Al/W ratio, the $ΔC_{γ'}^{Al+W+Ti+Ta+Cr}$ and $ΔC_{γ}^{Al+W+Ti+Ta+Cr}$ (the summation of the compositional change of Al, W, Ti, Ta and Cr in the γ' phase and γ phase, respectively) were -0.13 at.% and -0.70 at.%, respectively (Table 4). Therefore, both the a_γ' and a_γ were reduced since the atomic radii of Al, W, Ti, Ta and Cr are larger than those of Co or Ni atom [53]. However, the reduction of the a_γ' was smaller than that of the a_γ, resulting in an increase in the amplitude of δ (Table 3)."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.2",
+            "section_title": "4.2 γ/γ' lattice misfit",
+            "hierarchy_level": 1,
+            "chunk_number": 3,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 3"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "However, the reduction of the a_γ' was smaller than that of the a_γ, resulting in an increase in the amplitude of δ (Table 3). As the Al and W atoms prefer to occupy the same site, i.e., B site of the A₃B sublattice of L1₂ γ' phase [36,42,48,54], with increasing Al/W ratio, the influence of site occupancy on the lattice parameter of γ' phase can be ignored."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.2",
+            "section_title": "4.2 γ/γ' lattice misfit",
+            "hierarchy_level": 1,
+            "chunk_number": 4,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Many previous studies point out that increasing the Cr content can reduce the δ of Co–Ni-base alloys [45,48,55]. Pandey et al. [48] found that, both the a_γ' and a_γ were increased with increasing Cr content, but the rate of lattice expansion for the γ matrix is higher than for the γ' precipitates, resulting in a reduction in the overall δ. In the present work, the δ of alloy 9Cr-A was not determined, but the compositional changes of γ and γ' phases can give some indication."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.2",
+            "section_title": "4.2 γ/γ' lattice misfit",
+            "hierarchy_level": 1,
+            "chunk_number": 5,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "In the present work, the δ of alloy 9Cr-A was not determined, but the compositional changes of γ and γ' phases can give some indication. With increasing Cr content, the $ΔC_{γ'}^{Al+W+Ti+Ta+Cr}$ and $ΔC_{γ}^{Al+W+Ti+Ta+Cr}$ were 1.17 at.% and 3.88 at.%, respectively (Table 4); these compositional changes could lead to lattice expansions of both γ and γ' phases, but the increment of the a_γ should be more pronounced than that of the a_γ', resulting in a reduction of the δ value. On the other hand, Pandey et al. [48] found that when Cr content was higher than a critical value (8 at.% in their study), some anti-site Cr atoms preferred to occupy the A site of L1₂ sublattice by replacing the Co atoms, resulting in an increase of a_γ'."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.2",
+            "section_title": "4.2 γ/γ' lattice misfit",
+            "hierarchy_level": 1,
+            "chunk_number": 6,
+            "total_chunks": 6,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "On the other hand, Pandey et al. [48] found that when Cr content was higher than a critical value (8 at.% in their study), some anti-site Cr atoms preferred to occupy the A site of L1₂ sublattice by replacing the Co atoms, resulting in an increase of a_γ'. In this study, similar anti-sites for Cr atoms can be deduced by the composition of the γ' phase (Table 4). In alloy 5Cr-A and alloy 9Cr-A, the sum content of Co and Ni in γ' phase were 73.8 at.% and 72.7 at.%, respectively, indicating that some anti-site solute atoms in the A site are needed and are increased with increasing Cr content. According to the study by Pandey et al. [48], the additional anti-site solutes in the A site should be mainly Cr atoms, which could be one of the reasons that resulted in the increase of a_γ'."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.3.1",
+            "section_title": "4.3.1 γ/γ' lattice misfit",
+            "hierarchy_level": 2,
+            "chunk_number": 1,
+            "total_chunks": 4,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "A γ/γ' two-phase microstructure devoid of secondary phases is desired for superalloys, since γ' precipitates is the primary strengthening phase, while the secondary phases are often harmful for the mechanical properties [20]. Previous research indicates that the formation of secondary phases in Ni-free Co-Al-W-base alloys is relatively easy due to the narrow γ/γ' two-phase region [3,21,22]. For example, adding only 4 at.% Cr to a Co-7Al-7W-2Ta-4Ti alloy leads to the precipitation of secondary phases in excess of 6% volume fraction after aging at 1000 °C for 1000 h [21]."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.3.1",
+            "section_title": "4.3.1 γ/γ' lattice misfit",
+            "hierarchy_level": 2,
+            "chunk_number": 2,
+            "total_chunks": 4,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 2"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "In the present work, no secondary phases formed in alloy 5Cr-A and alloy 5Cr-B at either 1000 °C or 1100 °C (Fig. 2(a1) - (a3), (c1) - (c3)). This can be attributed to the 30 at.% Ni addition, which significantly enlarges the γ/γ' two-phase region compared to Ni-free alloy systems [27], resulting in a higher solubility of other alloying elements, like Cr. However, the higher Cr content in alloy 9Cr-A resulted in the formation of μ phase at both 1000 °C and 1100 °C (the white blocky phase in Fig. 2(b1) - (b3)). The composition of μ phase was 39.6Co-9.2Ni-36.0W-11.9Cr-2.1Ta-0.7Ti-0.6Al (at.%), as determined by EPMA."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.3.1",
+            "section_title": "4.3.1 γ/γ' lattice misfit",
+            "hierarchy_level": 2,
+            "chunk_number": 3,
+            "total_chunks": 4,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 4"
+                ],
+                "tables": [
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "The composition of μ phase was 39.6Co-9.2Ni-36.0W-11.9Cr-2.1Ta-0.7Ti-0.6Al (at.%), as determined by EPMA. The atom probe results revealed that the equilibrium C^W_γ and C^Cr_γ in alloy 5Cr-A after aging at 1000 °C were 5.66 at.% and 11.24 at.%, respectively, while in alloy 9Cr-A they were 4.26 at.% and 16.97 at.%, respectively (Table 4). Therefore, the solubility of W in the γ matrix is significantly reduced with increasing the Cr content. This is because Cr and W have a similar partition preference, and the strong enrichment of Cr in the γ phase (Fig. 4, Table 4) reduces the solid solubility of W in the γ matrix. Similarly, higher Cr content also significantly reduces the W concentration in the γ' phase (Table 4)."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.3.1",
+            "section_title": "4.3.1 γ/γ' lattice misfit",
+            "hierarchy_level": 2,
+            "chunk_number": 4,
+            "total_chunks": 4,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "Similarly, higher Cr content also significantly reduces the W concentration in the γ' phase (Table 4). This reduced the solubility of W in both phases leads to the over-saturation of W and promotes the precipitation of μ phase."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.3.2",
+            "section_title": "4.3.2 γ' volume fraction",
+            "hierarchy_level": 2,
+            "chunk_number": 1,
+            "total_chunks": 2,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 1",
+                    "Table 2"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "The γ' precipitates plays a critical role for superalloys, a high value of γ' volume fraction is commonly desired for improving the creep resistance [20]. In this study, increasing Cr content from 5 to 9 at.% distinctly reduced the γ' volume fraction at both 1000 °C and 1100 °C (Table 2), because the Cr content increase resulted in a distinct reduction of the γ' solvus temperature (by 30 °C, Table 1). This is consistant with first-principle studies [46] and thermodynamic calculation [21], which point out that Cr could reduce the thermodynamic stability of the γ' phase. On the other hand, increasing the Al/W ratio increased the γ' volume fraction."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.3.2",
+            "section_title": "4.3.2 γ' volume fraction",
+            "hierarchy_level": 2,
+            "chunk_number": 2,
+            "total_chunks": 2,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 2"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "On the other hand, increasing the Al/W ratio increased the γ' volume fraction. This is because the higher Al/W ratio results in a higher γ' solvus temperature (by 3 °C in this study) in the alloy system containing 30 at.% Ni [30]. Although an optimal value of γ' volume fraction has not been reported for the Co-Al-W-base superalloys yet, a high value is still appreciated to attain a better mechanical property. Therefore, alloy 5Cr-A and alloy 5Cr-B show promise for good creep resistance at high temperature, as their γ' volume fractions are above 80% after aging at 1000 °C for 1000 h (Table 2). Moreover, the γ' volume fractions of alloy 5Cr-A and alloy 5Cr-B were above 50% after aging at 1100 °C for 300 h, indicating excellent microstructural stabilities at such elevated temperature."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.3.3",
+            "section_title": "4.3.3 γ' morphology",
+            "hierarchy_level": 2,
+            "chunk_number": 1,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 2"
+                ],
+                "tables": [
+                    "Table 3"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "As shown in Fig. 2, increasing the Al/W ratio significantly changed the morphology of γ' precipitates, consistent with our previous work on Co-Ni-Al-W-Ta-Ti senary alloy [30]. This is mainly due to the increase of the γ/γ' lattice misfit (δ) (Table 3), by altering the elemental concentrations of the γ' and γ phases [52]. The morphology of γ' phase changed from nearly cuboidal to near spherical via increasing the Cr content (Fig. 2(a1) and (b1)) as a result of the reduction of the δ, as analyzed in 4.2. This phenomenon is also in consistent due to the study by Povstugar at el. [45], which shows that increasing the Cr content can significantly change the γ' morphology by reducing the δ in a Co-Ni-Al-W alloy system."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.3.3",
+            "section_title": "4.3.3 γ' morphology",
+            "hierarchy_level": 2,
+            "chunk_number": 2,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The γ' morphologies in alloy 5Cr-B and alloy 5Cr-A at 1100 °C were spherical and cuboidal, respectively, indicating that alloy 5Cr-A exhibited a higher magnitude of δ at 1100 °C than alloy 5Cr-B. It should be noted that the δ is strongly affected by temperature, i.e., the value of δ decreases with increasing temperature as the coefficient of thermal expansion of γ' phase is lower than that of γ phase [47,51]. When the temperature increased to 1100 °C, the δ of alloy 5Cr-B distinctly reduced to ~0, deduced by the spherical γ' morphology."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.3.3",
+            "section_title": "4.3.3 γ' morphology",
+            "hierarchy_level": 2,
+            "chunk_number": 3,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "When the temperature increased to 1100 °C, the δ of alloy 5Cr-B distinctly reduced to ~0, deduced by the spherical γ' morphology. Considering the δ of alloy 5Cr-A at 1100 °C, it can only be infered from the present results that its magnitude was higher than that of alloy 5Cr-B. In general, the coherent strengthening effect of γ' phase is predominantly associated with the magnitude of δ [20]. Therefore, alloy 5Cr-A may exhibit better creep resistance than that of alloy 5Cr-B as their γ' volume fractions are similar at 1100 °C. However, alloy 5Cr-B with high Al/W ratio exhibited distinctly higher oxidation property and lower alloy density compared to alloy 5Cr-A, indicating that alloy 5Cr-B may be more suitable for engineering application over alloy 5Cr-A at about 1000 °C."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.4",
+            "section_title": "4.4 Oxidation resistance and mechanism",
+            "hierarchy_level": 1,
+            "chunk_number": 1,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Besides the microstructural stability, the oxidation resistance at high temperature is also an essential property for superalloys [20]. In general, Cr, Al, and Si can consistently result in the formation of protective scales for metals [28]. These elements could form the protective Cr₂O₃, Al₂O₃ and SiO₂ layers during the oxidation in air, respectively, but also have synergistic effects with each other. Nevertheless, Cr₂O₃ is not stable at temperatures above 900 °C as it is further oxidized to the gaseous CrO₃ [56]. Meanwhile, the addition of Si tends to embrittle most alloys [28]. Since Al₂O₃ is thermodynamically stable even at higher temperatures above 1000 °C [28], a continuous Al₂O₃ layer is the most desirable oxide protection for superalloys [57]."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.4",
+            "section_title": "4.4 Oxidation resistance and mechanism",
+            "hierarchy_level": 1,
+            "chunk_number": 2,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 6",
+                    "Fig. 7"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The oxidation resistance of Co-Al-W-base alloys is commonly inferior without the additions of Cr or Si. For example, the mass gain of alloy Co-30Ni-10Al-10W after isothermal oxidation at 1000 °C for up to 100 h in air is 43 mg cm⁻² [19]. The addition of Si could significantly reduce that mass gain value to 7.6-12.4 mg cm⁻² [18,19] (Fig. 6(b)); however, Si additions were not considered in the current alloys due to its embrittlement effect [28]. In the present study, alloy 5Cr-A formed a Cr₂O₃ layer and exhibited a mass gain of 7 mg cm⁻² after the isothermal oxidation at 1000 °C for 100 h (Fig. 7(a)), showing a distinctly better oxidation resistance compared to alloy Co-30Ni-10Al-10W, even though the Al concentration of alloy 5Cr-A is lower."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.4",
+            "section_title": "4.4 Oxidation resistance and mechanism",
+            "hierarchy_level": 1,
+            "chunk_number": 3,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 7"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "In the present study, alloy 5Cr-A formed a Cr₂O₃ layer and exhibited a mass gain of 7 mg cm⁻² after the isothermal oxidation at 1000 °C for 100 h (Fig. 7(a)), showing a distinctly better oxidation resistance compared to alloy Co-30Ni-10Al-10W, even though the Al concentration of alloy 5Cr-A is lower. Further addition of Cr in alloy 9Cr-A resulted in a similar but thinner oxide layer than that of alloy 5Cr-A (Fig. 7(b)), indicating a further improvement of oxidation performance at 1000 °C. The improved oxidation resistance of the higher Cr containing alloy is due to the beneficial effect of Cr for the nucleation and growth of Cr₂O₃ layer, which can reduce the growth rate of external oxides, such as CoO [28]."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.4",
+            "section_title": "4.4 Oxidation resistance and mechanism",
+            "hierarchy_level": 1,
+            "chunk_number": 4,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 6",
+                    "Fig. 7"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The improved oxidation resistance of the higher Cr containing alloy is due to the beneficial effect of Cr for the nucleation and growth of Cr₂O₃ layer, which can reduce the growth rate of external oxides, such as CoO [28]. However, as Cr₂O₃ has an evaporation effect above 900 °C [56], the Cr₂O₃ layers in both alloy 5Cr-A and alloy 9Cr-A were porous (Fig. 7(a) and (b)), and they could not provide adequate oxidation protection for the substrate. On the other hand, a continuous Al₂O₃ layer did not form in alloy 5Cr-A or alloy 9Cr-A at 1000 °C, but forming discrete internal oxide Al₂O₃, which is commonly undesirable. Therefore, these two alloys exhibited inferior oxidation resistance compared to that of alloy 5Cr-B (Fig. 6)."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.4",
+            "section_title": "4.4 Oxidation resistance and mechanism",
+            "hierarchy_level": 1,
+            "chunk_number": 5,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 6",
+                    "Fig. 7"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Therefore, these two alloys exhibited inferior oxidation resistance compared to that of alloy 5Cr-B (Fig. 6). The higher Al concentration in alloy 5Cr-B allowed the formation of a dense continuous Al₂O₃ layer (Fig. 7(c)). This kind of Al₂O₃ layer can provide an effective oxidation protection even at 1000 °C, resulting in a superior oxidation resistance of alloy 5Cr-B over that of alloy 5Cr-A and alloy 9Cr-A (Fig. 6)."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.4",
+            "section_title": "4.4 Oxidation resistance and mechanism",
+            "hierarchy_level": 1,
+            "chunk_number": 6,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "Generally, a continuous Al₂O₃ layer forms only when the Al concentration is higher than a critical value in Ni–Cr–Al or Co–Cr–Al alloy system, while internal alumina particles, such as the ones in alloy 5Cr-A, form when the Al content is below this value [28]. Therefore, increasing the solubility of Al in both γ and γ' phases is necessary for the formation of the protective oxide. Our previous studies revealed that the addition of 30 at.% Ni significantly enlarges the γ/γ' two-phase region towards the Al-rich side [30], resulting in an increase of Al solubility in the γ/γ' two-phase region. Therefore, the addition of 30 at.% Ni in the present alloys is necessary for both microstructural stability and oxidation resistance."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.4",
+            "section_title": "4.4 Oxidation resistance and mechanism",
+            "hierarchy_level": 1,
+            "chunk_number": 7,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": [
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "Therefore, the addition of 30 at.% Ni in the present alloys is necessary for both microstructural stability and oxidation resistance. Furthermore, the study by Weiser et al. [58] points out that Al₂O₃ starts to nucleate in the γ channel, i.e., the Al atoms are exclusively provided by the γ channel during the first hours after the initiation of internal scale formation. This finding indicates that a high C^Al_{γ} can be a key for the formation of an adequate Al₂O₃ layer. In the present alloys, increasing the Al/W ratio resulted in a higher C^Al_{γ} (Table 4), which is beneficial for the nucleation and stability of Al₂O₃, and further transition to a continuous layer during the early stage of oxidation."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.4",
+            "section_title": "4.4 Oxidation resistance and mechanism",
+            "hierarchy_level": 1,
+            "chunk_number": 8,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 11"
+                ],
+                "tables": [
+                    "Table 6"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "On the other hand, the addition of Cr has a remarkable synergistic effect with Al for accelerating the formation of Al₂O₃ layer, as the transient Cr₂O₃ provides nucleation sites for Al₂O₃ [28]. In other words, the addition of Cr reduces the critical Al concentration value for the formation of continuous Al₂O₃ layer. Fig. 11 plots an oxide map of the Co–Ni–Al–W-base alloy system at 1000 °C using available data from literatures [14,19] and data from this study, illustrating the synergistic effect of Al and Cr on the formation of a continuous Al₂O₃ layer. All of the considered alloys (Table 6) contain 30 at.% Ni except the last alloy, which contains slightly higher Ni."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.4",
+            "section_title": "4.4 Oxidation resistance and mechanism",
+            "hierarchy_level": 1,
+            "chunk_number": 9,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 11"
+                ],
+                "tables": [
+                    "Table 6"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "All of the considered alloys (Table 6) contain 30 at.% Ni except the last alloy, which contains slightly higher Ni. None of the alloys contain Si or B in order to eliminate their effect, although Si and B could significantly promote the formation of continuous Al₂O₃ layer at high temperature [16,19]. The green dashed line in Fig. 11 indicates the approximate critical value of Al content for continuous Al₂O₃ formation at 1000 °C, suggesting that increasing the Cr content would reduce the critical value of Al concentration. The relationship between the critical Al content and Cr content is significant for compositional optimization of Co–Ni–Al–W-base alloys, but it requires more experimental data for a more definitive results."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.4",
+            "section_title": "4.4 Oxidation resistance and mechanism",
+            "hierarchy_level": 1,
+            "chunk_number": 10,
+            "total_chunks": 10,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The relationship between the critical Al content and Cr content is significant for compositional optimization of Co–Ni–Al–W-base alloys, but it requires more experimental data for a more definitive results. Considering the sparcity of available data in literature, this figure provides a good starting point for the optimization of Al and Cr levels with respect to continuous Al₂O₃ formation. In addition, the critical Al concentration is not only affected by the Cr concentration, but also the Ni concentration, which increases the interdiffusion coefficients of alloying elements in otherwise Co-rich matrix [59]. Therefore, the effect of Ni on the critical Al concentration needs to be further explored."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.5",
+            "section_title": "4.5 The hardness of γ' phase",
+            "hierarchy_level": 1,
+            "chunk_number": 1,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 10"
+                ],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "As the primary strengthening phase in superalloys, the strength of γ' precipitate strongly influences the creep resistance, i.e., the resistance against shearing [20]. At present, the reports on nano-indentation for novel Co-base superalloys are still limited [21,44], especially in the multi-component alloy systems. Zhou at el [21]. found that the addition of 4 at.% Cr reduces the hardness of γ' phase in alloy Co–7Al–7W–4Ti–2Ta. However, our investigation shows that higher Cr content resulted in a higher γ' hardness in the Co–Ni–Al–W–Ta–Ti–Cr alloys (Fig. 10)."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.5",
+            "section_title": "4.5 The hardness of γ' phase",
+            "hierarchy_level": 1,
+            "chunk_number": 2,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [
+                    "Fig. 10"
+                ],
+                "tables": [
+                    "Table 4"
+                ]
+            }
+        },
+        "page_content": {
+            "content": "However, our investigation shows that higher Cr content resulted in a higher γ' hardness in the Co–Ni–Al–W–Ta–Ti–Cr alloys (Fig. 10). The APT results (Table 4) indicate that increasing the Cr content resulted in an enrichment of Ni, Al, Ta, Ti and Cr in the γ' phase, in contrast to W. As reported by Antonov at el. [60], W, Ta, Ti, and Cr atoms have a strengthening effect when incorporated into the γ' sublattice in Ni-based super-alloys. The sum content of W, Ta, Ti, and Cr in alloy 9Cr-A was higher than that in alloy 5Cr-A (Table 4), resulting in the higher γ' hardness in alloy 9Cr-A. Similarly, the γ' hardness was reduced with increasing Al/W ratio since the sum content of W, Ta, Ti, and Cr was decreased in γ' phase."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "4.5",
+            "section_title": "4.5 The hardness of γ' phase",
+            "hierarchy_level": 1,
+            "chunk_number": 3,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The present results indicate that the addition of Cr content can significantly improve the oxidation resistance and γ' hardness, but reduce the microstructural stability. On the other hand, the increase of Al/W ratio can increase the γ' volume fraction, significantly improve the oxidation resistance and reduce the alloy density, but it also softens the γ' phase. This shows the importance of carefully balancing multiple properties during the design of multi-component alloy systems."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "5",
+            "section_title": "5. Conclusion",
+            "hierarchy_level": 0,
+            "chunk_number": 1,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "In this work, three Co–30Ni-xAl-(15-x)W–1Ta–4Ti-yCr multi-component alloys were systematically investigated, including the microstructural stability, partitioning behavior, oxidation property, γ' phase nano-hardness and alloy density. The following specific conclusions can be drawn based on the present study: 1. Increasing Cr content improves the oxidation resistance at 1000 °C and the hardness of the γ' phase; however, it reduces the Tγ'-solvus and promotes the precipitation of deleterious μ phase. 2. Increasing Al/W ratio not only predominantly enhances the oxidation resistance at 1000 °C and reduces the alloy density, but also increases the γ' volume fraction and the γ/γ' lattice misfit; however, it slightly softens the γ' phase. 3."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "5",
+            "section_title": "5. Conclusion",
+            "hierarchy_level": 0,
+            "chunk_number": 2,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "3. The order of elemental partitioning coefficients are as followed: $K^{γ/γ'}_{Ta} > K^{γ'}_{Ti/γ} > K^{γ'}_{Al/γ} > K^{γ'}_{Ni/γ} ≈ 1 > K^{γ}_{Co/γ} > K^{γ}_{Cr/γ}$. Increasing Cr content changed the distribution of most elements between γ' and γ phases, including the increase of the $K^{γ'}_{Al/γ}$, $K^{γ'}_{Ti/γ}$, $K^{γ'}_{Ta/γ}$ and the decrease of the $K^{γ'}_{W/γ}$. On the other hand, increasing Al/W ratio noticeably increased the $K^{γ'}_{Ti/Co/γ}$, in contrast to the $K^{γ'}_{Ta/γ}$, but had no appreciable effect on the $K^{γ'}_{Ni/γ}$, $K^{γ'}_{W/γ}$ and $K^{γ'}_{Cr/γ}$. 4. The external oxide scales of all experimental alloys consisted of three similar oxide layers: CoO layer, Co₂TiO₄ layer and Cr₂O₃ layer, from the outside to the inside."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "section_number": "5",
+            "section_title": "5. Conclusion",
+            "hierarchy_level": 0,
+            "chunk_number": 3,
+            "total_chunks": 3,
+            "ref_Fig/Table": {
+                "figures": [],
+                "tables": []
+            }
+        },
+        "page_content": {
+            "content": "The external oxide scales of all experimental alloys consisted of three similar oxide layers: CoO layer, Co₂TiO₄ layer and Cr₂O₃ layer, from the outside to the inside. However, internal Al₂O₃ formed in the alloys with low Al content (9 at.%). A high level of Al content (11 at.%) suppressed the formation of internal oxidation, with forming a dense continuous Al₂O₃ layer. 5. This work will be beneficial for the alloy design of Co-Ni-base multiple-component alloys, aimed at achieving a good balance of microstructural stability, oxidation property and mechanical property, as well as lower density. In addition, this work is also helpful for further understanding the partitioning behavior after long term aging and the oxidation mechanism at elevated temperature, i.e., 1000 °C."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 1"
+        },
+        "page_content": {
+            "table_number": "Table 1",
+            "caption": "Table 1 Nominal compositions (at.%) of experimental alloys with their γ' solvus temperature (Tγ'-solvus, °C) and alloy density (g cm⁻³).",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "Co",
+                    "Ni",
+                    "Cr",
+                    "Al",
+                    "W",
+                    "Ti",
+                    "Ta",
+                    "Al/W",
+                    "Tγ'-solvus (°C)",
+                    "Density (g cm⁻³)"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "5Cr-A",
+                        "Co": 45,
+                        "Ni": 30,
+                        "Cr": 5,
+                        "Al": 9,
+                        "W": 6,
+                        "Ti": 4,
+                        "Ta": 1,
+                        "Al/W": 1.5,
+                        "Tγ'-solvus (°C)": 1170,
+                        "Density (g cm⁻³)": 9.28
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Co": 41,
+                        "Ni": 30,
+                        "Cr": 9,
+                        "Al": 9,
+                        "W": 6,
+                        "Ti": 4,
+                        "Ta": 1,
+                        "Al/W": 1.5,
+                        "Tγ'-solvus (°C)": 1140,
+                        "Density (g cm⁻³)": 9.17
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Co": 45,
+                        "Ni": 30,
+                        "Cr": 5,
+                        "Al": 11,
+                        "W": 4,
+                        "Ti": 4,
+                        "Ta": 1,
+                        "Al/W": 2.75,
+                        "Tγ'-solvus (°C)": 1173,
+                        "Density (g cm⁻³)": 8.77
+                    }
+                ]
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table1.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 2"
+        },
+        "page_content": {
+            "table_number": "Table 2",
+            "caption": "Table 2 Experimental volume fractions (%) of various phases in experimental alloys after aging at 1000°C for 300–1000 h and at 1100°C for 300 h. The γ' volume fractions calculated by APT data based on level rule are also listed in brackets.",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "Phase",
+                    "1000°C Exp. (300 h)",
+                    "1000°C Exp. (1000 h)",
+                    "1100°C Exp. (300 h)"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "5Cr-A",
+                        "Phase": "γ'",
+                        "1000°C Exp. (300 h)": "80.4 ± 1.8",
+                        "1000°C Exp. (1000 h)": "81.3 ± 4.6 (75.7 ± 3.4)",
+                        "1100°C Exp. (300 h)": "53.4 ± 2.9"
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Phase": "μ",
+                        "1000°C Exp. (300 h)": 0,
+                        "1000°C Exp. (1000 h)": 0,
+                        "1100°C Exp. (300 h)": 0
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Phase": "γ'",
+                        "1000°C Exp. (300 h)": "64.6 ± 2.6",
+                        "1000°C Exp. (1000 h)": "59.4 ± 4.2",
+                        "1100°C Exp. (300 h)": "< 5"
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Phase": "μ",
+                        "1000°C Exp. (300 h)": "3.5 ± 0.5",
+                        "1000°C Exp. (1000 h)": "7.3 ± 0.7",
+                        "1100°C Exp. (300 h)": "5.4 ± 0.1"
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Phase": "γ'",
+                        "1000°C Exp. (300 h)": "89.9 ± 2.7",
+                        "1000°C Exp. (1000 h)": "90.8 ± 1.9 (84.7 ± 2.5)",
+                        "1100°C Exp. (300 h)": "57.7 ± 3.2"
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Phase": "μ",
+                        "1000°C Exp. (300 h)": 0,
+                        "1000°C Exp. (1000 h)": 0,
+                        "1100°C Exp. (300 h)": 0
+                    }
+                ],
+                "notes": "Besides the phases listed in the table, the remaining phase is γ matrix. The value in brackets was calculated by APT data based on level rule."
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table2.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 3"
+        },
+        "page_content": {
+            "table_number": "Table 3",
+            "caption": "Table 3 Lattice constants (nm) and γ/γ' lattice misfits of alloy 5Cr-A and alloy 5Cr-B at room temperature determined by synchrotron x-ray diffraction, after aging at 1000°C for 1000 h.",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "a_γ (nm)",
+                    "a_γ' (nm)",
+                    "δ (%)"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "5Cr-A",
+                        "a_γ (nm)": 0.3573,
+                        "a_γ' (nm)": 0.3584,
+                        "δ (%)": 0.3
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "a_γ (nm)": 0.3565,
+                        "a_γ' (nm)": 0.3578,
+                        "δ (%)": 0.37
+                    }
+                ]
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table3.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 4"
+        },
+        "page_content": {
+            "table_number": "Table 4",
+            "caption": "Table 4 Compositions (at.%) of the primary γ' and γ phases, and the partitioning coefficients between γ' and γ phases (K_{γ'/γ}) in the experimental alloys after aging at 1000°C for 1000 h, measured by APT.",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "Phase",
+                    "Co (at.%)",
+                    "Ni (at.%)",
+                    "Al (at.%)",
+                    "W (at.%)",
+                    "Ta (at.%)",
+                    "Ti (at.%)",
+                    "Cr (at.%)"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "5Cr-A",
+                        "Phase": "γ'",
+                        "Co (at.%)": 42.18,
+                        "Ni (at.%)": 31.64,
+                        "Al (at.%)": 10.19,
+                        "W (at.%)": 6.07,
+                        "Ta (at.%)": 1.16,
+                        "Ti (at.%)": 4.84,
+                        "Cr (at.%)": 3.91
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Phase": "γ",
+                        "Co (at.%)": 50.68,
+                        "Ni (at.%)": 23.52,
+                        "Al (at.%)": 6.41,
+                        "W (at.%)": 5.66,
+                        "Ta (at.%)": 0.32,
+                        "Ti (at.%)": 2.18,
+                        "Cr (at.%)": 11.24
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Phase": "K_{γ'/γ}",
+                        "Co (at.%)": 0.83,
+                        "Ni (at.%)": 1.35,
+                        "Al (at.%)": 1.59,
+                        "W (at.%)": 1.07,
+                        "Ta (at.%)": 3.65,
+                        "Ti (at.%)": 2.22,
+                        "Cr (at.%)": 0.35
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Phase": "γ'",
+                        "Co (at.%)": 37.85,
+                        "Ni (at.%)": 34.81,
+                        "Al (at.%)": 11.12,
+                        "W (at.%)": 4.21,
+                        "Ta (at.%)": 1.32,
+                        "Ti (at.%)": 5.75,
+                        "Cr (at.%)": 4.94
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Phase": "γ",
+                        "Co (at.%)": 44.8,
+                        "Ni (at.%)": 25.52,
+                        "Al (at.%)": 6.43,
+                        "W (at.%)": 4.26,
+                        "Ta (at.%)": 0.3,
+                        "Ti (at.%)": 1.71,
+                        "Cr (at.%)": 16.97
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Phase": "K_{γ'/γ}",
+                        "Co (at.%)": 0.84,
+                        "Ni (at.%)": 1.36,
+                        "Al (at.%)": 1.73,
+                        "W (at.%)": 0.99,
+                        "Ta (at.%)": 4.36,
+                        "Ti (at.%)": 3.35,
+                        "Cr (at.%)": 0.29
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Phase": "γ'",
+                        "Co (at.%)": 43.13,
+                        "Ni (at.%)": 30.84,
+                        "Al (at.%)": 12.08,
+                        "W (at.%)": 4.05,
+                        "Ta (at.%)": 1.06,
+                        "Ti (at.%)": 4.57,
+                        "Cr (at.%)": 4.27
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Phase": "γ",
+                        "Co (at.%)": 52.37,
+                        "Ni (at.%)": 22.52,
+                        "Al (at.%)": 7.67,
+                        "W (at.%)": 4.1,
+                        "Ta (at.%)": 0.33,
+                        "Ti (at.%)": 1.58,
+                        "Cr (at.%)": 11.43
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Phase": "K_{γ'/γ}",
+                        "Co (at.%)": 0.82,
+                        "Ni (at.%)": 1.37,
+                        "Al (at.%)": 1.57,
+                        "W (at.%)": 0.99,
+                        "Ta (at.%)": 3.25,
+                        "Ti (at.%)": 2.9,
+                        "Cr (at.%)": 0.37
+                    }
+                ]
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table4.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 5"
+        },
+        "page_content": {
+            "table_number": "Table 5",
+            "caption": "Table 5 The thickness of the oxide layers and the oxide compositions in the experimental alloys after isothermal oxidation at 1000°C for 100 h, determined by EPMA quantitative analysis.",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "Oxide layer",
+                    "Thickness (μm)",
+                    "Composition (at.%)"
+                ],
+                "subcolumns": {
+                    "Composition (at.%)": [
+                        "O",
+                        "Co",
+                        "Ni",
+                        "Al",
+                        "W",
+                        "Ta",
+                        "Ti",
+                        "Cr"
+                    ]
+                },
+                "rows": [
+                    {
+                        "Alloy": "5Cr-A",
+                        "Oxide layer": "(Co,Ni)O",
+                        "Thickness (μm)": 13.7,
+                        "Composition (at.%)": {
+                            "O": 48.7,
+                            "Co": 40.2,
+                            "Ni": 10.5,
+                            "Al": 0.1,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 0.2,
+                            "Cr": 0.2
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Oxide layer": "(Co,Ni)₂(Ti,Al)O₄",
+                        "Thickness (μm)": 5.7,
+                        "Composition (at.%)": {
+                            "O": 60.0,
+                            "Co": 22.2,
+                            "Ni": 3.4,
+                            "Al": 3.1,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 11.0,
+                            "Cr": 0.3
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Oxide layer": "Cr₂O₃",
+                        "Thickness (μm)": 4.5,
+                        "Composition (at.%)": {
+                            "O": 62.9,
+                            "Co": 0.6,
+                            "Ni": 0.4,
+                            "Al": 1.4,
+                            "W": 0.4,
+                            "Ta": 0,
+                            "Ti": 0,
+                            "Cr": 33.0
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Oxide layer": "Internal oxide",
+                        "Thickness (μm)": 34.2,
+                        "Composition (at.%)": {
+                            "O": 60.2,
+                            "Co": 3.5,
+                            "Ni": 2.6,
+                            "Al": 33.1,
+                            "W": 0.5,
+                            "Ta": 0,
+                            "Ti": 0,
+                            "Cr": 0
+                        }
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Oxide layer": "(Co,Ni)O",
+                        "Thickness (μm)": 7.5,
+                        "Composition (at.%)": {
+                            "O": 48.5,
+                            "Co": 39.6,
+                            "Ni": 11.3,
+                            "Al": 0.1,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 0.2,
+                            "Cr": 0.4
+                        }
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Oxide layer": "(Co,Ni)₂(Ti,Al)O₄",
+                        "Thickness (μm)": 5.7,
+                        "Composition (at.%)": {
+                            "O": 59.9,
+                            "Co": 22.2,
+                            "Ni": 3.6,
+                            "Al": 1.9,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 11.7,
+                            "Cr": 0.7
+                        }
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Oxide layer": "Cr₂O₃",
+                        "Thickness (μm)": 5.5,
+                        "Composition (at.%)": {
+                            "O": 60.8,
+                            "Co": 0.4,
+                            "Ni": 0.3,
+                            "Al": 1.8,
+                            "W": 0.2,
+                            "Ta": 0,
+                            "Ti": 1.2,
+                            "Cr": 35.3
+                        }
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Oxide layer": "Internal oxide",
+                        "Thickness (μm)": 21.7,
+                        "Composition (at.%)": {
+                            "O": 60.4,
+                            "Co": 1.1,
+                            "Ni": 1.0,
+                            "Al": 36.4,
+                            "W": 0.1,
+                            "Ta": 0.2,
+                            "Ti": 0.7,
+                            "Cr": 0.1
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Oxide layer": "(Co,Ni)O",
+                        "Thickness (μm)": 1.7,
+                        "Composition (at.%)": {
+                            "O": 51.4,
+                            "Co": 14.9,
+                            "Ni": 29.2,
+                            "Al": 2.3,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 2.0,
+                            "Cr": 0.3
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Oxide layer": "(Co,Ni)₂(Ti,Al)O₄",
+                        "Thickness (μm)": 1.3,
+                        "Composition (at.%)": {
+                            "O": 60.8,
+                            "Co": 16.7,
+                            "Ni": 10.1,
+                            "Al": 4.4,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 7.3,
+                            "Cr": 0.6
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Oxide layer": "Cr₂O₃",
+                        "Thickness (μm)": 1.1,
+                        "Composition (at.%)": {
+                            "O": 13.3,
+                            "Co": 6.8,
+                            "Ni": 9.7,
+                            "Al": 0,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 4.0,
+                            "Cr": 5.9
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Oxide layer": "Al₂O₃",
+                        "Thickness (μm)": 1.3,
+                        "Composition (at.%)": {
+                            "O": 60.4,
+                            "Co": 3.1,
+                            "Ni": 1.7,
+                            "Al": 31.6,
+                            "W": 0.3,
+                            "Ta": 0,
+                            "Ti": 1.0,
+                            "Cr": 1.0
+                        }
+                    }
+                ],
+                "notes": "The oxide layers of alloy 5Cr–B were too thin to be accurately determined by EPMA."
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table5.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 6"
+        },
+        "page_content": {
+            "table_number": "Table 6",
+            "caption": "Table 6 The ability for forming continuous Al₂O₃ layer of Co–Ni–Al–W-base alloys after isothermal oxidation at 1000°C for 100 h in air.",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "Co (at.%)",
+                    "Ni (at.%)",
+                    "Cr (at.%)",
+                    "Al (at.%)",
+                    "W (at.%)",
+                    "Ti (at.%)",
+                    "Ta (at.%)",
+                    "Can form continuous Al₂O₃ layer at 1000°C?",
+                    "References"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "FC-0.0",
+                        "Co (at.%)": 50,
+                        "Ni (at.%)": 30,
+                        "Cr (at.%)": 0,
+                        "Al (at.%)": 10,
+                        "W (at.%)": 10,
+                        "Ti (at.%)": 0,
+                        "Ta (at.%)": 0,
+                        "Can form continuous Al₂O₃ layer at 1000°C?": "No",
+                        "References": "[19]"
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Co (at.%)": 45,
+                        "Ni (at.%)": 30,
+                        "Cr (at.%)": 5,
+                        "Al (at.%)": 9,
+                        "W (at.%)": 6,
+                        "Ti (at.%)": 4,
+                        "Ta (at.%)": 1,
+                        "Can form continuous Al₂O₃ layer at 1000°C?": "No",
+                        "References": "This work"
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Co (at.%)": 45,
+                        "Ni (at.%)": 30,
+                        "Cr (at.%)": 5,
+                        "Al (at.%)": 11,
+                        "W (at.%)": 4,
+                        "Ti (at.%)": 4,
+                        "Ta (at.%)": 1,
+                        "Can form continuous Al₂O₃ layer at 1000°C?": "Yes",
+                        "References": "This work"
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Co (at.%)": 41,
+                        "Ni (at.%)": 30,
+                        "Cr (at.%)": 9,
+                        "Al (at.%)": 9,
+                        "W (at.%)": 6,
+                        "Ti (at.%)": 4,
+                        "Ta (at.%)": 1,
+                        "Can form continuous Al₂O₃ layer at 1000°C?": "No",
+                        "References": "This work"
+                    },
+                    {
+                        "Alloy": "Co-EXP",
+                        "Co (at.%)": 40.5,
+                        "Ni (at.%)": 35,
+                        "Cr (at.%)": 10,
+                        "Al (at.%)": 9.5,
+                        "W (at.%)": 2,
+                        "Ti (at.%)": 0,
+                        "Ta (at.%)": 0,
+                        "Can form continuous Al₂O₃ layer at 1000°C?": "Yes",
+                        "References": "[14]"
+                    }
+                ]
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table6.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 1",
+            "chunk_num": 1,
+            "total_chunks": 1,
+            "subfigure_label": "(b)"
+        },
+        "page_content": {
+            "figure_number": "Fig. 1",
+            "caption": "Fig. 1 (a) SEM image of the points grid of nanoindents in alloy 5Cr-A (the considered indents are marked with yellow circles); (b) selected load-displacement curves of indented γ'phase. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article).",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.1.png",
+            "data": {
+                "columns": [
+                    "Distance(nm)",
+                    "Load(mN)"
+                ],
+                "values": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        10,
+                        0.15
+                    ],
+                    [
+                        20,
+                        0.286
+                    ],
+                    [
+                        40,
+                        0.758
+                    ],
+                    [
+                        60,
+                        1.315
+                    ],
+                    [
+                        80,
+                        2.08
+                    ],
+                    [
+                        100,
+                        2.528
+                    ],
+                    [
+                        95,
+                        2.104
+                    ],
+                    [
+                        90,
+                        1.533
+                    ],
+                    [
+                        87,
+                        1.071
+                    ],
+                    [
+                        82,
+                        0.571
+                    ],
+                    [
+                        75,
+                        0
+                    ]
+                ]
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 2"
+        },
+        "page_content": {
+            "figure_number": "Fig. 2",
+            "caption": "Fig. 2 SEM images of the typical microstructures in alloys (a) 5Cr-A, (b) 9Cr-A and (c) 5Cr–B after aging at 1000 °C for (1) 300 h and (2) 1000 h, as well as (3) 1100 °C for 300 h.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.2.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 3"
+        },
+        "page_content": {
+            "figure_number": "Fig. 3",
+            "caption": "Fig. 3 Synchrotron X-ray diffraction curves showing the {111} reflection of alloys (a) 5Cr-A and (b) 5Cr–B at room temperature. The samples were aged at 1000 °C for 1000 h before the test.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.3.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 4"
+        },
+        "page_content": {
+            "figure_number": "Fig. 4",
+            "caption": "Fig. 4 APT reconstructions of the alloys (a) 5Cr-A, (b) 9Cr-A (c) and 5Cr-B after water quenching for the samples aged at 1000 °C for 1000 h, showing the distribution of alloying elements in the γ and γ' phases. (d) Partitioning coefficients between the γ' and γ phases (K_{γ'/γ}) in the experimental alloys after aging at 1000 °C for 1000 h.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.4.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 5"
+        },
+        "page_content": {
+            "figure_number": "Fig. 5",
+            "caption": "Fig. 5 Plots of C^X_{alloy} - C^X_γ' as a function of C^X_γ' - C^X_γ for alloy 5Cr-A and alloy 5Cr−B for estimating their γ' volume fraction after aging at 1000 °C for 1000 h based on the lever rule.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.5.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 6",
+            "chunk_num": 1,
+            "total_chunks": 2,
+            "subfigure_label": "(a)"
+        },
+        "page_content": {
+            "figure_number": "Fig. 6",
+            "caption": "Fig. 6 (a) Mass gain curves of experimental alloys after isothermal oxidation at 1000 °C and (b) mass gain per surface area of experimental alloys (red bars) after isothermal oxidation at 1000 °C for 100 h in air, compared with other Co–Al–W-base alloys (cyan bars) [18,19] and commercial Ni-base superalloys (green bars) [37,38]. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article).",
+            "data": {
+                "columns": [
+                    "Time (h)",
+                    "Mass Gain (mg/cm²)"
+                ],
+                "alloy_name": [
+                    {
+                        "alloy": "5Cr-A",
+                        "values": [
+                            [
+                                50,
+                                5.73
+                            ],
+                            [
+                                100,
+                                7.06
+                            ]
+                        ]
+                    },
+                    {
+                        "alloy": "9Cr-A",
+                        "values": [
+                            [
+                                50,
+                                1.87
+                            ],
+                            [
+                                100,
+                                2.01
+                            ]
+                        ]
+                    },
+                    {
+                        "alloy": "5Cr-B",
+                        "values": [
+                            [
+                                50,
+                                1.05
+                            ],
+                            [
+                                100,
+                                0.99
+                            ]
+                        ]
+                    }
+                ],
+                "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.6(a).png"
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 6",
+            "chunk_num": 2,
+            "total_chunks": 2,
+            "subfigure_label": "(b)"
+        },
+        "page_content": {
+            "figure_number": "Fig. 6",
+            "caption": "Fig. 6 (a) Mass gain curves of experimental alloys after isothermal oxidation at 1000 °C and (b) mass gain per surface area of experimental alloys (red bars) after isothermal oxidation at 1000 °C for 100 h in air, compared with other Co–Al–W-base alloys (cyan bars) [18,19] and commercial Ni-base superalloys (green bars) [37,38]. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article).",
+            "data": {
+                "columns": [
+                    "alloy",
+                    "Mass Gain (mg/cm²)"
+                ],
+                "alloy_name": [
+                    {
+                        "alloy": "Co-9Al-9W-2Si-0.12B",
+                        "Mass Gain (mg/cm²)": 12.41
+                    },
+                    {
+                        "alloy": "Co-30Ni-10Al-5W-2Si",
+                        "Mass Gain (mg/cm²)": 7.63
+                    },
+                    {
+                        "alloy": "Udimet",
+                        "Mass Gain (mg/cm²)": 3.3
+                    },
+                    {
+                        "alloy": "Wasploy",
+                        "Mass Gain (mg/cm²)": 2.51
+                    },
+                    {
+                        "alloy": "CMSX-6",
+                        "Mass Gain (mg/cm²)": 0.41
+                    },
+                    {
+                        "alloy": "CMSX-4",
+                        "Mass Gain (mg/cm²)": 0.33
+                    },
+                    {
+                        "alloy": "5Cr-A",
+                        "Mass Gain (mg/cm²)": 7.05
+                    },
+                    {
+                        "alloy": "9Cr-A",
+                        "Mass Gain (mg/cm²)": 2.01
+                    },
+                    {
+                        "alloy": "5Cr-B",
+                        "Mass Gain (mg/cm²)": 1.03
+                    }
+                ],
+                "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.6(b).png"
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 7"
+        },
+        "page_content": {
+            "figure_number": "Fig. 7",
+            "caption": "Fig. 7 SEM-BSE images of the typical oxide scales in the alloys (a) 5Cr-A, (b) 9Cr-A and (c) 5Cr–B after isothermal oxidation at 1000 °C for 100 h in air, as well as (d) their XRD results.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.7.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 8"
+        },
+        "page_content": {
+            "figure_number": "Fig. 8",
+            "caption": "Fig. 8 EDS maps showing the distribution of alloying elements in the oxide layers for alloy 5Cr-A after isothermal oxidation at 1000 °C for 100 h in air.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.8.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 9"
+        },
+        "page_content": {
+            "figure_number": "Fig. 9",
+            "caption": "Fig. 9 EDS maps showing the distribution of alloying elements in the oxide layer for alloy 5Cr-B after isothermal oxidation at 1000 °C for 100 h in air.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.9.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 10",
+            "chunk_num": 1,
+            "total_chunks": 6
+        },
+        "page_content": {
+            "figure_number": "Fig. 10",
+            "caption": "Fig. 10 Nano-hardness of the γ' phase in the experimental alloys after aging at 1000 °C for 1000 h, in comparison with the 2nd generation Ni-base single crystal superalloy CMSX-4 [41] and other Co–Ni-base alloys [30].",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.10.png",
+            "data": {
+                "alloy": "CMSX-4",
+                "Hardness of γ' phase(GPa)": 8.47
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 10",
+            "chunk_num": 2,
+            "total_chunks": 6
+        },
+        "page_content": {
+            "figure_number": "Fig. 10",
+            "caption": "Fig. 10 Nano-hardness of the γ' phase in the experimental alloys after aging at 1000 °C for 1000 h, in comparison with the 2nd generation Ni-base single crystal superalloy CMSX-4 [41] and other Co–Ni-base alloys [30].",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.10.png",
+            "data": {
+                "alloy": "Co-30Ni-11Al-4W-1Ta-4Ti",
+                "Hardness of γ' phase(GPa)": 6.15
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 10",
+            "chunk_num": 3,
+            "total_chunks": 6
+        },
+        "page_content": {
+            "figure_number": "Fig. 10",
+            "caption": "Fig. 10 Nano-hardness of the γ' phase in the experimental alloys after aging at 1000 °C for 1000 h, in comparison with the 2nd generation Ni-base single crystal superalloy CMSX-4 [41] and other Co–Ni-base alloys [30].",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.10.png",
+            "data": {
+                "alloy": "Co-30Ni-9Al-6W-1Ta-5Ti",
+                "Hardness of γ' phase(GPa)": 7.11
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 10",
+            "chunk_num": 4,
+            "total_chunks": 6
+        },
+        "page_content": {
+            "figure_number": "Fig. 10",
+            "caption": "Fig. 10 Nano-hardness of the γ' phase in the experimental alloys after aging at 1000 °C for 1000 h, in comparison with the 2nd generation Ni-base single crystal superalloy CMSX-4 [41] and other Co–Ni-base alloys [30].",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.10.png",
+            "data": {
+                "alloy": "5Cr-A",
+                "Hardness of γ' phase(GPa)": 8.44
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 10",
+            "chunk_num": 5,
+            "total_chunks": 6
+        },
+        "page_content": {
+            "figure_number": "Fig. 10",
+            "caption": "Fig. 10 Nano-hardness of the γ' phase in the experimental alloys after aging at 1000 °C for 1000 h, in comparison with the 2nd generation Ni-base single crystal superalloy CMSX-4 [41] and other Co–Ni-base alloys [30].",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.10.png",
+            "data": {
+                "alloy": "9Cr-A",
+                "Hardness of γ' phase(GPa)": 9.13
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 10",
+            "chunk_num": 6,
+            "total_chunks": 6
+        },
+        "page_content": {
+            "figure_number": "Fig. 10",
+            "caption": "Fig. 10 Nano-hardness of the γ' phase in the experimental alloys after aging at 1000 °C for 1000 h, in comparison with the 2nd generation Ni-base single crystal superalloy CMSX-4 [41] and other Co–Ni-base alloys [30].",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.10.png",
+            "data": {
+                "alloy": "5Cr-B",
+                "Hardness of γ' phase(GPa)": 8.07
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 11",
+            "chunk_num": 1,
+            "total_chunks": 5
+        },
+        "page_content": {
+            "figure_number": "Fig. 11",
+            "caption": "Fig. 11 Oxide map in the Co–Ni–Al–W-base alloys with different Cr and Al concentrations, showing the ability for forming continuous Al₂O₃ layer of these alloys after isothermal oxidation at 1000 °C in air. All the displayed plots are experimental data from literatures [14, 19] or this study. All alloys in the diagram contain 30 at.% of Ni, except the marked one.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.11.png",
+            "data": {
+                "Cr (at.%)": 9,
+                "Al (at.%)": 9,
+                "type": "Non-continuous Al₂O₃ layer",
+                "source": "Present study"
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 11",
+            "chunk_num": 2,
+            "total_chunks": 5
+        },
+        "page_content": {
+            "figure_number": "Fig. 11",
+            "caption": "Fig. 11 Oxide map in the Co–Ni–Al–W-base alloys with different Cr and Al concentrations, showing the ability for forming continuous Al₂O₃ layer of these alloys after isothermal oxidation at 1000 °C in air. All the displayed plots are experimental data from literatures [14, 19] or this study. All alloys in the diagram contain 30 at.% of Ni, except the marked one.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.11.png",
+            "data": {
+                "Cr (at.%)": 10,
+                "Al (at.%)": 9.5,
+                "type": "Continuous Al₂O₃ layer",
+                "source": "Literature [14]"
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 11",
+            "chunk_num": 3,
+            "total_chunks": 5
+        },
+        "page_content": {
+            "figure_number": "Fig. 11",
+            "caption": "Fig. 11 Oxide map in the Co–Ni–Al–W-base alloys with different Cr and Al concentrations, showing the ability for forming continuous Al₂O₃ layer of these alloys after isothermal oxidation at 1000 °C in air. All the displayed plots are experimental data from literatures [14, 19] or this study. All alloys in the diagram contain 30 at.% of Ni, except the marked one.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.11.png",
+            "data": {
+                "Cr (at.%)": 0,
+                "Al (at.%)": 10,
+                "type": "Non-continuous Al₂O₃ layer",
+                "source": "Literature [19]"
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 11",
+            "chunk_num": 4,
+            "total_chunks": 5
+        },
+        "page_content": {
+            "figure_number": "Fig. 11",
+            "caption": "Fig. 11 Oxide map in the Co–Ni–Al–W-base alloys with different Cr and Al concentrations, showing the ability for forming continuous Al₂O₃ layer of these alloys after isothermal oxidation at 1000 °C in air. All the displayed plots are experimental data from literatures [14, 19] or this study. All alloys in the diagram contain 30 at.% of Ni, except the marked one.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.11.png",
+            "data": {
+                "Cr (at.%)": 5,
+                "Al (at.%)": 9,
+                "type": "Non-continuous Al₂O₃ layer",
+                "source": "Present study"
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 11",
+            "chunk_num": 5,
+            "total_chunks": 5
+        },
+        "page_content": {
+            "figure_number": "Fig. 11",
+            "caption": "Fig. 11 Oxide map in the Co–Ni–Al–W-base alloys with different Cr and Al concentrations, showing the ability for forming continuous Al₂O₃ layer of these alloys after isothermal oxidation at 1000 °C in air. All the displayed plots are experimental data from literatures [14, 19] or this study. All alloys in the diagram contain 30 at.% of Ni, except the marked one.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.11.png",
+            "data": {
+                "Cr (at.%)": 5,
+                "Al (at.%)": 11,
+                "type": "Continuous Al₂O₃ layer",
+                "source": "Present study"
+            }
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 1
+        },
+        "page_content": {
+            "additional_info_title": "Novelty statement",
+            "content": "We declare that the work described has not been published previously, and all results of this manuscript are new and original."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 2
+        },
+        "page_content": {
+            "additional_info_title": "Declaration of competing interest",
+            "content": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 3
+        },
+        "page_content": {
+            "additional_info_title": "CRediT authorship contribution statement",
+            "content": "Wendao Li: Investigation, Methodology, Formal analysis, Writing - original draft. Longfei Li: Conceptualization, Funding acquisition, Writing - review & editing. Stoichko Antonov: Formal analysis, Writing - review & editing. Fan Lu: Investigation, Formal analysis. Qiang Feng: Conceptualization, Funding acquisition, Writing - review & editing."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 4
+        },
+        "page_content": {
+            "additional_info_title": "Acknowledgments",
+            "content": "The authors would like to acknowledge the supports provided by the National Key Research and Development Program of China (Grant No.: 2017YFB0702902), National Natural Science Foundation of China (Grant No.: 51771019) and Key-Area Research and Development Program of GuangDong Province (Grant No.:2019B010943001). The authors thank beamline BL14B1 (Shanghai Synchrotron Radiation Facility) for providing the beam time and helps during experiments."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 1
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[1] J. Guo, Materials Science and Engineering for Superalloys, Science Press, Beijing, 2008."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 2
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[2] C.S. Lee, Precipitation-hardening Characteristics of Ternary Cobalt - Aluminum - X Alloys, The University of Arizona, 1971. https://repository.arizona.edu/handle/10150/287709."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 3
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[3] J. Sato, T. Omori, K. Oikawa, I. Ohnuma, R. Kainuma, K. Ishida, Cobalt-base high-temperature alloys, Science 312 (2006) 90-91. https://doi.org/10.1126/science.1121738."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 4
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[4] C.H. Zenk, I. Povstugar, R. Li, F. Rinaldi, S. Neumeier, D. Raabe, M. Göken, A novel type of Co-Ti-Cr-base γ/γ' superalloys with low mass density, Acta Mater. 135 (2017) 244-251. https://doi.org/10.1016/j.actamat.2017.06.024."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 5
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[5] S.K. Makineni, B. Nithin, K. Chattopadhyay, A new tungsten-free γ-γ' Co-Al-Mo-Nb-based superalloy, Scripta Mater. 98 (2015) 36-39. https://doi.org/10.1016/j.scriptamat.2014.11.009."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 6
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[6] S.K. Makineni, B. Nithin, K. Chattopadhyay, Synthesis of a new tungsten-free γ-γ' cobalt-based superalloy by tuning alloying additions, Acta Mater. 85 (2015) 85-94. https://doi.org/10.1016/j.actamat.2014.11.016."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 7
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[7] S.K. Makineni, A. Samanta, T. Rojhirunsakool, T. Alam, B. Nithin, A.K. Singh, R. Banerjee, K. Chattopadhyay, A new class of high strength high temperature Cobalt based γ-γ' Co-Mo-Al alloys stabilized with Ta addition, Acta Mater. 97 (2015) 29-40. https://doi.org/10.1016/j.actamat.2015.06.034."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 8
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[8] Y. Chen, C. Wang, J. Ruan, T. Omori, R. Kainuma, K. Ishida, X. Liu, High-strength Co-Al-V-base superalloys strengthened by γ'-Co₃(Al,V) with high solvus temperature, Acta Mater. 170 (2019) 62-74."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 9
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[9] F. Xue, H.J. Zhou, Q. Feng, Improved high-temperature microstructural stability and creep property of novel Co-base single-crystal alloys containing Ta and Ti, JOM 66 (2014) 2486-2494. https://doi.org/10.1007/s11837-014-1181-y."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 10
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[10] M.S. Titus, A. Suzuki, T.M. Pollock, Creep and directional coarsening in single crystals of new γ-γ' cobalt-base alloys, Scripta Mater. 66 (2012) 574-577. https://doi.org/10.1016/j.scriptamat.2012.01.008."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 11
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[11] H.Y. Yan, V.A. Vorontsov, D. Dye, Alloying effects in polycrystalline γ' strengthened Co-Al-W base alloys, Intermetallics 48 (2014) 44-53. https://doi.org/10.1016/j.intermet.2013.10.022."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 12
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[12] I. Bantounas, B. Gwalani, T. Alam, R. Banerjee, D. Dye, Elemental partitioning, mechanical and oxidation behaviour of two high-γ' W-free γ/γ' polycrystalline Co/Ni superalloys, Scripta Mater. 163 (2019) 44-50. https://doi.org/10.1016/j.scriptamat.2018.12.025."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 13
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[13] Y. Li, F. Pyczak, J. Paul, Z. Yao, Oxidation behaviors of Co-Al-W-0.1B superalloys in a long-term isothermal exposure at 900 °C, J. Mater. Sci. Technol. (2018). https://doi.org/10.1016/j.jmst.2018.03.013."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 14
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[14] S.A.J. Forsik, A.O. Polar Rosas, T. Wang, G.A. Colombo, N. Zhou, S.J. Kernion, M.E. Epler, High-temperature oxidation behavior of a novel Co-base superalloy, Metall. Mater. Trans. 49 (2018) 4058-4069. https://doi.org/10.1007/s11661-018-4736-7."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 15
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[15] H.Y. Yan, V.A. Vorontsov, D. Dye, Effect of alloying on the oxidation behaviour of Co-Al-W superalloys, Corrosion Sci. 83 (2014) 382-395. https://doi.org/10.1016/j.corsci.2014.03.002."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 16
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[16] L. Klein, Y. Shen, M.S. Killian, S. Virtanen, Effect of B and Cr on the high temperature oxidation behaviour of novel γ/γ'-strengthened Co-base superalloys, Corrosion Sci. 53 (2011) 2713-2720. https://doi.org/10.1016/j.corsci.2011.04.020."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 17
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[17] F.B. Ismail, V.A. Vorontsov, T.C. Lindley, M.C. Hardy, D. Dye, B.A. Shollock, Alloying effects on oxidation mechanisms in polycrystalline Co-Ni base superalloys, Corrosion Sci. 116 (2017) 44-52. https://doi.org/10.1016/j.corsci.2016.12.009."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 18
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[18] D.-I.L. Klein, High Temperature Oxidation and Electrochemical Studies on Novel Co-base Superalloys, Universität Erlangen-Nürnberg, 2013."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 19
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[19] A.-C. Yeh, S.-C. Wang, C.-F. Cheng, Y.-J. Chang, S.-C. Chang, Oxidation behaviour of Si-bearing Co-based alloys, Oxid. Metals (2016) 1-14. https://doi.org/10.1007/s11085-016-9623-2."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 20
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[20] R.C. Reed, The Superalloys: Fundamentals and Applications, Cambridge University Press, Cambridge, 2006. https://doi.org/10.1017/CBO9780511541285."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 21
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[21] H. Zhou, W. Li, F. Xue, L. Zhang, X. Qu, Q. Feng, Alloying effects on microstructural stability and γ' phase nano-hardness in Co-Al-W-Ta-Ti-base superalloys, Superalloys[C]//Superalloys 2016, in: Proceedings of the 13th Intenational Symposium of Superalloys. Hoboken, NJ, USA, 2016, pp. 981-990. https://doi.org/10.1002/9781119075646.ch104."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 22
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[22] L. Wang, M. Oehring, Y. Li, L. Song, Y. Liu, A. Stark, U. Lorenz, F. Pyczak, Microstructure, phase stability and element partitioning of γ-γ' Co-9Al-9W-2X alloys in different annealing conditions, J. Alloys Compd. 787 (2019) 594-605. https://doi.org/10.1016/j.jallcom.2019.01.289."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 23
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[23] S. Neumeier, L.P. Freund, M. Göken, Novel wrought γ/γ' cobalt base superalloys with high strength and improved oxidation resistance, Scripta Mater. 109 (2015) 104-107. https://doi.org/10.1016/j.scriptamat.2015.07.030."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 24
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[24] S. Meher, L. Carroll, T. Pollock, M. Carroll, Solute partitioning in multicomponent γ/γ' Co-Ni-base superalloys with near-zero lattice misfit, Scripta Mater. 113 (2016) 185-189. https://doi.org/10.1016/j.scriptamat.2015.10.039."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 25
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[25] L.P. Freund, A. Stark, A. Kirchmayer, N. Schell, F. Pyczak, M. Göken, S. Neumeier, The effect of a grain boundary pinning B2 phase on polycrystalline Co-based superalloys with reduced density, Metall. Mater. Trans."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 26
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[26] N. Volz, C.H. Zenk, R. Cherukuri, T. Kalfhaus, M. Weiser, S.K. Makineni, C. Betzing, M. Lenz, B. Gault, S.G. Fries, Thermophysical and mechanical properties of advanced single crystalline Co-base superalloys, Metall. Mater. Trans. (2018) 1-11, https://doi.org/10.1007/s11661-018-4705-1."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 27
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[27] K. Shinagawa, T. Omori, J. Sato, K. Oikawa, I. Ohnuma, R. Kainuma, K. Ishida, Phase equilibria and microstructure on γ'phase in Co-Ni-Al-W system, Mater. Trans., JIM 49 (2008) 1474-1479, https://doi.org/10.2320/matertrans.MER2008073."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 28
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[28] N. Birks, G.H. Meier, F.S. Pettit, Introduction to the High Temperature Oxidation of Metals, Cambridge University Press, Cambridge, 2006, https://doi.org/10.1017/CBO9781139163903."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 29
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[29] A. Suzuki, H. Inui, T.M. Pollock, L1₂-strengthened cobalt-base superalloys, Annu. Rev. Mater. Res. 45 (2015) 345-368, https://doi.org/10.1146/annurev-matsci-070214-021043."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 30
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[30] W. Li, L. Li, S. Antonov, Q. Feng, Effective design of a Co-Ni-Al-W-Ta-Ti alloy with high γ' solvus temperature and microstructural stability using combined CALPHAD and experimental approaches, Mater. Des. 180 (2019) 107912, https://doi.org/10.1016/j.matdes.2019.107912."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 31
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[31] T. Yang, W. Wen, Y. Guang-Zhi, L. Long, G. Mei, G. Yue-Liang, L. Li, L. Yi, L. He, Z. Xing-Min, Z. Bin, T. Liu, Y. Yang, L. Zhong, Z. Xingtai, G. Xing-Yu, Introduction of the x-ray diffraction beamline of SSRF, Nucl. Sci. Tech. 26 (2015), 020101. https://doi:10.13538/j.1001-8042/nst.26.020101."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 32
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[32] X. Li, B. Bhushan, A review of nanoindentation continuous stiffness measurement technique and its applications, Mater. Char. 48 (2002) 11-36, https://doi.org/10.1016/S1044-5803(02)00192-4."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 33
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[33] W.C. Oliver, G.M. Pharr, An improved technique for determining hardness and elastic modulus using load and displacement sensing indentation experiments, J. Mater. Res. 7 (1992) 1564-1583, https://doi.org/10.1557/JMR.1992.1564."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 34
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[34] M. Göken, M. Kempf, Pop-Ins in nanoindentations—the initial yield point, Z. Metallkd. 92 (2001) 1061-1067."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 35
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[35] T. Omori, K. Oikawa, J. Sato, I. Ohnuma, U.R. Kattner, R. Kainuma, K. Ishida, Partition behavior of alloying elements and phase transformation temperatures in Co-Al-W-base quaternary systems, Intermetallics 32 (2013) 274-283, https://doi.org/10.1016/j.intermet.2012.07.033."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 36
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[36] L. Wang, M. Oehring, Y. Liu, U. Lorenz, F. Pyczak, Site occupancy of alloying elements in the L1₂ structure determined by channeling enhanced microanalysis in γ/γ' Co-9Al-9W-2X alloys, Acta Mater. 162 (2019) 176-188, https://doi.org/10.1016/j.actamat.2018.09.059."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 37
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[37] J.H. Chen, P.M. Rogers, J.A. Little, Oxidation behavior of several chromia-forming commercial nickel-base superalloys, Oxid. Metals 47 (1997) 381-410, https://doi.org/10.1007/BF02134783."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 38
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[38] M. Göbel, A. Rahmel, M.J.O.o.M. Schütze, The isothermal-oxidation behavior of several nickel-base single-crystal superalloys with and without coatings, Oxid. Metals 39 (1993) 231-261, https://doi.org/10.1007/BF00665614."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 39
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[39] I.C. Chen, D.L. Douglass, The internal nitriding behavior of Co-3Cr, Co-3Al, and Co-3Ti (a/o) over the range of 700-1100°C, Oxid. Metals 38 (1992) 189-205, https://doi.org/10.1007/BF00666910."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 40
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[40] U. Krupp, H.J. Christ, Internal nitridation of nickel-base alloys. Part I. behavior of binary and ternary alloys of the Ni-Cr-Al-Ti system, Oxid. Metals 52 (1999) 277-298, https://doi.org/10.1023/A:1018843612011."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 41
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[41] K. Durst, M. Göken, Micromechanical characterisation of the influence of rhenium on the mechanical properties in nickel-base superalloys, Mater. Sci. Eng., A 387-389 (2004) 312-316, https://doi.org/10.1016/j.msea.2004.03.079."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 42
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[42] S. Meher, H.Y. Yan, S. Nag, D. Dye, R. Banerjee, Solute partitioning and site preference in γ/γ' cobalt-base alloys, Scripta Mater. 67 (2012) 850-853, https://doi.org/10.1016/j.scriptamat.2012.08.006."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 43
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[43] S. Meher, R. Banerjee, Partitioning and site occupancy of Ta and Mo in Co-base γ/γ' alloys studied by atom probe tomography, Intermetallics 49 (2014) 138-142, https://doi.org/10.1016/j.intermet.2014.01.020."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 44
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[44] I. Povstugar, P.-P. Choi, S. Neumeier, A. Bauer, C.H. Zenk, M. Göken, D. Raabe, Elemental partitioning and mechanical properties of Ti- and Ta-containing Co-Al-W-base superalloys studied by atom probe tomography and nanoindentation, Acta Mater. 78 (2014) 78-85, https://doi.org/10.1016/j.actamat.2014.06.020."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 45
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[45] I. Povstugar, C. Zenk, R. Li, P.-P. Choi, S. Neumeier, O. Dolotko, M. Hoelzel, M. Göken, D. Raabe, Elemental partitioning, lattice misfit and creep behaviour of Cr containing γ' strengthened Co base superalloys, Mater. Sci. Technol. 32 (2016) 220-225, https://doi.org/10.1179/1743284715Y.0000000112."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 46
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[46] M. Chen, C.Y. Wang, First-principle investigation of 3d transition metal elements in γ'-Co₃(Al,W), J. Appl. Phys. 107 (2010), 093705, https://doi.org/10.1063/1.3319650, 093705-093705."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 47
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[47] F. Pyczak, A. Bauer, M. Göken, U. Lorenz, S. Neumeier, M. Oehring, J. Paul, N. Schell, A. Schreyer, A. Stark, F. Symanzik, The effect of tungsten content on the properties of L1₂-hardened Co-Al-W alloys, J. Alloys Compd. 632 (2015) 110-115, https://doi.org/10.1016/j.jallcom.2015.01.031."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 48
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[48] P. Pandey, S.K. Makineni, A. Samanta, A. Sharma, S.M. Das, B. Nithin, C. Srivastava, A.K. Singh, D. Raabe, B. Gault, K. Chattopadhyay, Elemental site occupancy in the L1₂ A3B ordered intermetallic phase in Co-based superalloys and its influence on the microstructure, Acta Mater. 163 (2019) 140-153, https://doi.org/10.1016/j.actamat.2018.09.049."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 49
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[49] C.H. Zenk, S. Neumeier, M. Kolb, N. Volz, S.G. Fries, O. Dolotko, I. Povstugar, D. Raabe, M. Göken, The role of the base element in strengthened cobalt/nickel-base superalloys, Superalloys[C]//Superalloys 2016, in: Proceedings of the 13th Intenational Symposium of Superalloys. Hoboken, NJ, USA, 2016, pp. 971-980, https://doi.org/10.1002/9781119075646.ch103."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 50
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[50] J.Y. Chen, Q. Feng, L.M. Cao, Z.Q. Sun, Improvement of stress-rupture property by Cr addition in Ni-based single crystal superalloys, Mater. Sci. Eng., A 528 (2011) 3791-3798, https://doi.org/10.1016/j.msea.2011.01.060."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 51
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[51] H. Mughrabi, The importance of sign and magnitude of γ/γ' lattice misfit in superalloys - with special reference to the new γ'-hardened cobalt-base superalloys, Acta Mater. 81 (2014) 21-29, https://doi.org/10.1016/j.actamat.2014.08.005."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 52
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[52] M. Fährmann, P. Fratzl, O. Paris, E. Fährmann, W.C. Johnson, Influence of coherency stress on microstructural evolution in model Ni-Al-Mo alloys, Acta Metall. Mater. 43 (1995) 1007-1022, https://doi.org/10.1016/0956-7151(94)00337-H."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 53
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[53] A. Earnshaw, N.N. Greenwood, Chemistry of the Elements, Butterworth-Heinemann, Oxford, 1997."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 54
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[54] Y. Chen, F. Xue, S. Mao, H. Long, B. Zhang, Q. Deng, B. Chen, Y. Liu, P. Maguire, H. Zhang, X. Han, Q. Feng, Elemental preference and atomic scale site recognition in a Co-Al-W-base superalloy, Sci. Rep. 7 (2017) 17240, https://doi.org/10.1038/s41598-017-17456-1."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 55
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[55] K. Christofidou, N. Jones, E. Pickering, R. Flacau, M. Hardy, H. Stone, The microstructure and hardness of Ni-Co-Al-Ti-Cr quinary alloys, J. Alloys Compd. 688 (2016) 542-552, https://doi.org/10.1016/j.jallcom.2016.07.159."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 56
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[56] P.J.O.o.M. Berthod, Kinetics of high temperature oxidation and chromia volatilization for a binary Ni-Cr, Alloy 64 (2005) 235-252, https://doi.org/10.1007/s11085-005-6562-8."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 57
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[57] H. Long, S. Mao, Y. Liu, Z. Zhang, X. Han, Microstructural and compositional design of Ni-based single crystalline superalloys - A review, J. Alloys Compd. 743 (2018) 203-220, https://doi.org/10.1016/j.jallcom.2018.01.224."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 58
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[58] M. Weiser, Y.M. Eggeler, E. Spiecker, S. Virtanen, Early stages of scale formation during oxidation of γ/γ' strengthened single crystal ternary Co-base superalloy at 900°C, Corrosion Sci. 135 (2018) 78-86, https://doi.org/10.1016/j.corsci.2018.02.020."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 59
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[59] S. Neumeier, H.U. Rehman, J. Neuner, C.H. Zenk, S. Michel, S. Schuwalow, J. Rogal, R. Drautz, M. Göken, Diffusion of solutes in fcc cobalt investigated by diffusion couples and first principles kinetic Monte Carlo, Acta Mater. 106 (2016) 304-312, https://doi.org/10.1016/j.actamat.2016.01.028."
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "additional_information_num": 5,
+            "ref_num": 60
+        },
+        "page_content": {
+            "additional_info_title": "References",
+            "content": "[60] S. Antonov, M. Detrois, D. Isheim, D. Seidman, R.C. Helmink, R.L. Goetz, E. Sun, S. Tin, Comparison of thermodynamic database models and APT data for strength modeling in high Nb content γ-γ' Ni-base superalloys, Mater. Des. 86 (2015) 649-655, https://doi.org/10.1016/j.matdes.2015.07.171."
+        }
+    }
+]

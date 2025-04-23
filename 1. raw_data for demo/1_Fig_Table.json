@@ -1,0 +1,927 @@
+[
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 1"
+        },
+        "page_content": {
+            "table_number": "Table 1",
+            "caption": "Table 1 Nominal compositions (at.%) of experimental alloys with their γ' solvus temperature (Tγ'-solvus, °C) and alloy density (g cm⁻³).",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "Co",
+                    "Ni",
+                    "Cr",
+                    "Al",
+                    "W",
+                    "Ti",
+                    "Ta",
+                    "Al/W",
+                    "Tγ'-solvus (°C)",
+                    "Density (g cm⁻³)"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "5Cr-A",
+                        "Co": 45,
+                        "Ni": 30,
+                        "Cr": 5,
+                        "Al": 9,
+                        "W": 6,
+                        "Ti": 4,
+                        "Ta": 1,
+                        "Al/W": 1.5,
+                        "Tγ'-solvus (°C)": 1170,
+                        "Density (g cm⁻³)": 9.28
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Co": 41,
+                        "Ni": 30,
+                        "Cr": 9,
+                        "Al": 9,
+                        "W": 6,
+                        "Ti": 4,
+                        "Ta": 1,
+                        "Al/W": 1.5,
+                        "Tγ'-solvus (°C)": 1140,
+                        "Density (g cm⁻³)": 9.17
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Co": 45,
+                        "Ni": 30,
+                        "Cr": 5,
+                        "Al": 11,
+                        "W": 4,
+                        "Ti": 4,
+                        "Ta": 1,
+                        "Al/W": 2.75,
+                        "Tγ'-solvus (°C)": 1173,
+                        "Density (g cm⁻³)": 8.77
+                    }
+                ]
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table1.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 2"
+        },
+        "page_content": {
+            "table_number": "Table 2",
+            "caption": "Table 2 Experimental volume fractions (%) of various phases in experimental alloys after aging at 1000°C for 300–1000 h and at 1100°C for 300 h. The γ' volume fractions calculated by APT data based on level rule are also listed in brackets.",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "Phase",
+                    "1000°C Exp. (300 h)",
+                    "1000°C Exp. (1000 h)",
+                    "1100°C Exp. (300 h)"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "5Cr-A",
+                        "Phase": "γ'",
+                        "1000°C Exp. (300 h)": "80.4 ± 1.8",
+                        "1000°C Exp. (1000 h)": "81.3 ± 4.6 (75.7 ± 3.4)",
+                        "1100°C Exp. (300 h)": "53.4 ± 2.9"
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Phase": "μ",
+                        "1000°C Exp. (300 h)": 0,
+                        "1000°C Exp. (1000 h)": 0,
+                        "1100°C Exp. (300 h)": 0
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Phase": "γ'",
+                        "1000°C Exp. (300 h)": "64.6 ± 2.6",
+                        "1000°C Exp. (1000 h)": "59.4 ± 4.2",
+                        "1100°C Exp. (300 h)": "< 5"
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Phase": "μ",
+                        "1000°C Exp. (300 h)": "3.5 ± 0.5",
+                        "1000°C Exp. (1000 h)": "7.3 ± 0.7",
+                        "1100°C Exp. (300 h)": "5.4 ± 0.1"
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Phase": "γ'",
+                        "1000°C Exp. (300 h)": "89.9 ± 2.7",
+                        "1000°C Exp. (1000 h)": "90.8 ± 1.9 (84.7 ± 2.5)",
+                        "1100°C Exp. (300 h)": "57.7 ± 3.2"
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Phase": "μ",
+                        "1000°C Exp. (300 h)": 0,
+                        "1000°C Exp. (1000 h)": 0,
+                        "1100°C Exp. (300 h)": 0
+                    }
+                ],
+                "notes": "Besides the phases listed in the table, the remaining phase is γ matrix. The value in brackets was calculated by APT data based on level rule."
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table2.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 3"
+        },
+        "page_content": {
+            "table_number": "Table 3",
+            "caption": "Table 3 Lattice constants (nm) and γ/γ' lattice misfits of alloy 5Cr-A and alloy 5Cr-B at room temperature determined by synchrotron x-ray diffraction, after aging at 1000°C for 1000 h.",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "a_γ (nm)",
+                    "a_γ' (nm)",
+                    "δ (%)"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "5Cr-A",
+                        "a_γ (nm)": 0.3573,
+                        "a_γ' (nm)": 0.3584,
+                        "δ (%)": 0.3
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "a_γ (nm)": 0.3565,
+                        "a_γ' (nm)": 0.3578,
+                        "δ (%)": 0.37
+                    }
+                ]
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table3.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 4"
+        },
+        "page_content": {
+            "table_number": "Table 4",
+            "caption": "Table 4 Compositions (at.%) of the primary γ' and γ phases, and the partitioning coefficients between γ' and γ phases (K_{γ'/γ}) in the experimental alloys after aging at 1000°C for 1000 h, measured by APT.",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "Phase",
+                    "Co (at.%)",
+                    "Ni (at.%)",
+                    "Al (at.%)",
+                    "W (at.%)",
+                    "Ta (at.%)",
+                    "Ti (at.%)",
+                    "Cr (at.%)"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "5Cr-A",
+                        "Phase": "γ'",
+                        "Co (at.%)": 42.18,
+                        "Ni (at.%)": 31.64,
+                        "Al (at.%)": 10.19,
+                        "W (at.%)": 6.07,
+                        "Ta (at.%)": 1.16,
+                        "Ti (at.%)": 4.84,
+                        "Cr (at.%)": 3.91
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Phase": "γ",
+                        "Co (at.%)": 50.68,
+                        "Ni (at.%)": 23.52,
+                        "Al (at.%)": 6.41,
+                        "W (at.%)": 5.66,
+                        "Ta (at.%)": 0.32,
+                        "Ti (at.%)": 2.18,
+                        "Cr (at.%)": 11.24
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Phase": "K_{γ'/γ}",
+                        "Co (at.%)": 0.83,
+                        "Ni (at.%)": 1.35,
+                        "Al (at.%)": 1.59,
+                        "W (at.%)": 1.07,
+                        "Ta (at.%)": 3.65,
+                        "Ti (at.%)": 2.22,
+                        "Cr (at.%)": 0.35
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Phase": "γ'",
+                        "Co (at.%)": 37.85,
+                        "Ni (at.%)": 34.81,
+                        "Al (at.%)": 11.12,
+                        "W (at.%)": 4.21,
+                        "Ta (at.%)": 1.32,
+                        "Ti (at.%)": 5.75,
+                        "Cr (at.%)": 4.94
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Phase": "γ",
+                        "Co (at.%)": 44.8,
+                        "Ni (at.%)": 25.52,
+                        "Al (at.%)": 6.43,
+                        "W (at.%)": 4.26,
+                        "Ta (at.%)": 0.3,
+                        "Ti (at.%)": 1.71,
+                        "Cr (at.%)": 16.97
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Phase": "K_{γ'/γ}",
+                        "Co (at.%)": 0.84,
+                        "Ni (at.%)": 1.36,
+                        "Al (at.%)": 1.73,
+                        "W (at.%)": 0.99,
+                        "Ta (at.%)": 4.36,
+                        "Ti (at.%)": 3.35,
+                        "Cr (at.%)": 0.29
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Phase": "γ'",
+                        "Co (at.%)": 43.13,
+                        "Ni (at.%)": 30.84,
+                        "Al (at.%)": 12.08,
+                        "W (at.%)": 4.05,
+                        "Ta (at.%)": 1.06,
+                        "Ti (at.%)": 4.57,
+                        "Cr (at.%)": 4.27
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Phase": "γ",
+                        "Co (at.%)": 52.37,
+                        "Ni (at.%)": 22.52,
+                        "Al (at.%)": 7.67,
+                        "W (at.%)": 4.1,
+                        "Ta (at.%)": 0.33,
+                        "Ti (at.%)": 1.58,
+                        "Cr (at.%)": 11.43
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Phase": "K_{γ'/γ}",
+                        "Co (at.%)": 0.82,
+                        "Ni (at.%)": 1.37,
+                        "Al (at.%)": 1.57,
+                        "W (at.%)": 0.99,
+                        "Ta (at.%)": 3.25,
+                        "Ti (at.%)": 2.9,
+                        "Cr (at.%)": 0.37
+                    }
+                ]
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table4.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 5"
+        },
+        "page_content": {
+            "table_number": "Table 5",
+            "caption": "Table 5 The thickness of the oxide layers and the oxide compositions in the experimental alloys after isothermal oxidation at 1000°C for 100 h, determined by EPMA quantitative analysis.",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "Oxide layer",
+                    "Thickness (μm)",
+                    "Composition (at.%)"
+                ],
+                "subcolumns": {
+                    "Composition (at.%)": [
+                        "O",
+                        "Co",
+                        "Ni",
+                        "Al",
+                        "W",
+                        "Ta",
+                        "Ti",
+                        "Cr"
+                    ]
+                },
+                "rows": [
+                    {
+                        "Alloy": "5Cr-A",
+                        "Oxide layer": "(Co,Ni)O",
+                        "Thickness (μm)": 13.7,
+                        "Composition (at.%)": {
+                            "O": 48.7,
+                            "Co": 40.2,
+                            "Ni": 10.5,
+                            "Al": 0.1,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 0.2,
+                            "Cr": 0.2
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Oxide layer": "(Co,Ni)₂(Ti,Al)O₄",
+                        "Thickness (μm)": 5.7,
+                        "Composition (at.%)": {
+                            "O": 60.0,
+                            "Co": 22.2,
+                            "Ni": 3.4,
+                            "Al": 3.1,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 11.0,
+                            "Cr": 0.3
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Oxide layer": "Cr₂O₃",
+                        "Thickness (μm)": 4.5,
+                        "Composition (at.%)": {
+                            "O": 62.9,
+                            "Co": 0.6,
+                            "Ni": 0.4,
+                            "Al": 1.4,
+                            "W": 0.4,
+                            "Ta": 0,
+                            "Ti": 0,
+                            "Cr": 33.0
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Oxide layer": "Internal oxide",
+                        "Thickness (μm)": 34.2,
+                        "Composition (at.%)": {
+                            "O": 60.2,
+                            "Co": 3.5,
+                            "Ni": 2.6,
+                            "Al": 33.1,
+                            "W": 0.5,
+                            "Ta": 0,
+                            "Ti": 0,
+                            "Cr": 0
+                        }
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Oxide layer": "(Co,Ni)O",
+                        "Thickness (μm)": 7.5,
+                        "Composition (at.%)": {
+                            "O": 48.5,
+                            "Co": 39.6,
+                            "Ni": 11.3,
+                            "Al": 0.1,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 0.2,
+                            "Cr": 0.4
+                        }
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Oxide layer": "(Co,Ni)₂(Ti,Al)O₄",
+                        "Thickness (μm)": 5.7,
+                        "Composition (at.%)": {
+                            "O": 59.9,
+                            "Co": 22.2,
+                            "Ni": 3.6,
+                            "Al": 1.9,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 11.7,
+                            "Cr": 0.7
+                        }
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Oxide layer": "Cr₂O₃",
+                        "Thickness (μm)": 5.5,
+                        "Composition (at.%)": {
+                            "O": 60.8,
+                            "Co": 0.4,
+                            "Ni": 0.3,
+                            "Al": 1.8,
+                            "W": 0.2,
+                            "Ta": 0,
+                            "Ti": 1.2,
+                            "Cr": 35.3
+                        }
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Oxide layer": "Internal oxide",
+                        "Thickness (μm)": 21.7,
+                        "Composition (at.%)": {
+                            "O": 60.4,
+                            "Co": 1.1,
+                            "Ni": 1.0,
+                            "Al": 36.4,
+                            "W": 0.1,
+                            "Ta": 0.2,
+                            "Ti": 0.7,
+                            "Cr": 0.1
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Oxide layer": "(Co,Ni)O",
+                        "Thickness (μm)": 1.7,
+                        "Composition (at.%)": {
+                            "O": 51.4,
+                            "Co": 14.9,
+                            "Ni": 29.2,
+                            "Al": 2.3,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 2.0,
+                            "Cr": 0.3
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Oxide layer": "(Co,Ni)₂(Ti,Al)O₄",
+                        "Thickness (μm)": 1.3,
+                        "Composition (at.%)": {
+                            "O": 60.8,
+                            "Co": 16.7,
+                            "Ni": 10.1,
+                            "Al": 4.4,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 7.3,
+                            "Cr": 0.6
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Oxide layer": "Cr₂O₃",
+                        "Thickness (μm)": 1.1,
+                        "Composition (at.%)": {
+                            "O": 13.3,
+                            "Co": 6.8,
+                            "Ni": 9.7,
+                            "Al": 0,
+                            "W": 0,
+                            "Ta": 0,
+                            "Ti": 4.0,
+                            "Cr": 5.9
+                        }
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Oxide layer": "Al₂O₃",
+                        "Thickness (μm)": 1.3,
+                        "Composition (at.%)": {
+                            "O": 60.4,
+                            "Co": 3.1,
+                            "Ni": 1.7,
+                            "Al": 31.6,
+                            "W": 0.3,
+                            "Ta": 0,
+                            "Ti": 1.0,
+                            "Cr": 1.0
+                        }
+                    }
+                ],
+                "notes": "The oxide layers of alloy 5Cr–B were too thin to be accurately determined by EPMA."
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table5.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "tables_num": "Table 6"
+        },
+        "page_content": {
+            "table_number": "Table 6",
+            "caption": "Table 6 The ability for forming continuous Al₂O₃ layer of Co–Ni–Al–W-base alloys after isothermal oxidation at 1000°C for 100 h in air.",
+            "data": {
+                "columns": [
+                    "Alloy",
+                    "Co (at.%)",
+                    "Ni (at.%)",
+                    "Cr (at.%)",
+                    "Al (at.%)",
+                    "W (at.%)",
+                    "Ti (at.%)",
+                    "Ta (at.%)",
+                    "Can form continuous Al₂O₃ layer at 1000°C?",
+                    "References"
+                ],
+                "rows": [
+                    {
+                        "Alloy": "FC-0.0",
+                        "Co (at.%)": 50,
+                        "Ni (at.%)": 30,
+                        "Cr (at.%)": 0,
+                        "Al (at.%)": 10,
+                        "W (at.%)": 10,
+                        "Ti (at.%)": 0,
+                        "Ta (at.%)": 0,
+                        "Can form continuous Al₂O₃ layer at 1000°C?": "No",
+                        "References": "[19]"
+                    },
+                    {
+                        "Alloy": "5Cr-A",
+                        "Co (at.%)": 45,
+                        "Ni (at.%)": 30,
+                        "Cr (at.%)": 5,
+                        "Al (at.%)": 9,
+                        "W (at.%)": 6,
+                        "Ti (at.%)": 4,
+                        "Ta (at.%)": 1,
+                        "Can form continuous Al₂O₃ layer at 1000°C?": "No",
+                        "References": "This work"
+                    },
+                    {
+                        "Alloy": "5Cr-B",
+                        "Co (at.%)": 45,
+                        "Ni (at.%)": 30,
+                        "Cr (at.%)": 5,
+                        "Al (at.%)": 11,
+                        "W (at.%)": 4,
+                        "Ti (at.%)": 4,
+                        "Ta (at.%)": 1,
+                        "Can form continuous Al₂O₃ layer at 1000°C?": "Yes",
+                        "References": "This work"
+                    },
+                    {
+                        "Alloy": "9Cr-A",
+                        "Co (at.%)": 41,
+                        "Ni (at.%)": 30,
+                        "Cr (at.%)": 9,
+                        "Al (at.%)": 9,
+                        "W (at.%)": 6,
+                        "Ti (at.%)": 4,
+                        "Ta (at.%)": 1,
+                        "Can form continuous Al₂O₃ layer at 1000°C?": "No",
+                        "References": "This work"
+                    },
+                    {
+                        "Alloy": "Co-EXP",
+                        "Co (at.%)": 40.5,
+                        "Ni (at.%)": 35,
+                        "Cr (at.%)": 10,
+                        "Al (at.%)": 9.5,
+                        "W (at.%)": 2,
+                        "Ti (at.%)": 0,
+                        "Ta (at.%)": 0,
+                        "Can form continuous Al₂O₃ layer at 1000°C?": "Yes",
+                        "References": "[14]"
+                    }
+                ]
+            },
+            "table_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Table6.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 1"
+        },
+        "page_content": {
+            "figure_number": "Fig. 1",
+            "caption": "Fig. 1 (a) SEM image of the points grid of nanoindents in alloy 5Cr-A (the considered indents are marked with yellow circles); (b) selected load-displacement curves of indented γ'phase. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article).",
+            "data": [
+                {
+                    "subfigure_label": "(b)",
+                    "columns": [
+                        "Distance(nm)",
+                        "Load(mN)"
+                    ],
+                    "values": [
+                        [
+                            0,
+                            0
+                        ],
+                        [
+                            10,
+                            0.15
+                        ],
+                        [
+                            20,
+                            0.286
+                        ],
+                        [
+                            40,
+                            0.758
+                        ],
+                        [
+                            60,
+                            1.315
+                        ],
+                        [
+                            80,
+                            2.08
+                        ],
+                        [
+                            100,
+                            2.528
+                        ],
+                        [
+                            95,
+                            2.104
+                        ],
+                        [
+                            90,
+                            1.533
+                        ],
+                        [
+                            87,
+                            1.071
+                        ],
+                        [
+                            82,
+                            0.571
+                        ],
+                        [
+                            75,
+                            0
+                        ]
+                    ]
+                }
+            ],
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.1.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 2"
+        },
+        "page_content": {
+            "figure_number": "Fig. 2",
+            "caption": "Fig. 2 SEM images of the typical microstructures in alloys (a) 5Cr-A, (b) 9Cr-A and (c) 5Cr–B after aging at 1000 °C for (1) 300 h and (2) 1000 h, as well as (3) 1100 °C for 300 h.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.2.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 3"
+        },
+        "page_content": {
+            "figure_number": "Fig. 3",
+            "caption": "Fig. 3 Synchrotron X-ray diffraction curves showing the {111} reflection of alloys (a) 5Cr-A and (b) 5Cr–B at room temperature. The samples were aged at 1000 °C for 1000 h before the test.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.3.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 4"
+        },
+        "page_content": {
+            "figure_number": "Fig. 4",
+            "caption": "Fig. 4 APT reconstructions of the alloys (a) 5Cr-A, (b) 9Cr-A (c) and 5Cr-B after water quenching for the samples aged at 1000 °C for 1000 h, showing the distribution of alloying elements in the γ and γ' phases. (d) Partitioning coefficients between the γ' and γ phases (K_{γ'/γ}) in the experimental alloys after aging at 1000 °C for 1000 h.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.4.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 5"
+        },
+        "page_content": {
+            "figure_number": "Fig. 5",
+            "caption": "Fig. 5 Plots of C^X_{alloy} - C^X_γ' as a function of C^X_γ' - C^X_γ for alloy 5Cr-A and alloy 5Cr−B for estimating their γ' volume fraction after aging at 1000 °C for 1000 h based on the lever rule.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.5.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 6"
+        },
+        "page_content": {
+            "figure_number": "Fig. 6",
+            "caption": "Fig. 6 (a) Mass gain curves of experimental alloys after isothermal oxidation at 1000 °C and (b) mass gain per surface area of experimental alloys (red bars) after isothermal oxidation at 1000 °C for 100 h in air, compared with other Co–Al–W-base alloys (cyan bars) [18,19] and commercial Ni-base superalloys (green bars) [37,38]. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article).",
+            "data": [
+                {
+                    "subfigure_label": "(a)",
+                    "columns": [
+                        "Time (h)",
+                        "Mass Gain (mg/cm²)"
+                    ],
+                    "alloy_name": [
+                        {
+                            "alloy": "5Cr-A",
+                            "values": [
+                                [
+                                    50,
+                                    5.73
+                                ],
+                                [
+                                    100,
+                                    7.06
+                                ]
+                            ]
+                        },
+                        {
+                            "alloy": "9Cr-A",
+                            "values": [
+                                [
+                                    50,
+                                    1.87
+                                ],
+                                [
+                                    100,
+                                    2.01
+                                ]
+                            ]
+                        },
+                        {
+                            "alloy": "5Cr-B",
+                            "values": [
+                                [
+                                    50,
+                                    1.05
+                                ],
+                                [
+                                    100,
+                                    0.99
+                                ]
+                            ]
+                        }
+                    ],
+                    "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.6(a).png"
+                },
+                {
+                    "subfigure_label": "(b)",
+                    "columns": [
+                        "alloy",
+                        "Mass Gain (mg/cm²)"
+                    ],
+                    "alloy_name": [
+                        {
+                            "alloy": "Co-9Al-9W-2Si-0.12B",
+                            "Mass Gain (mg/cm²)": 12.41
+                        },
+                        {
+                            "alloy": "Co-30Ni-10Al-5W-2Si",
+                            "Mass Gain (mg/cm²)": 7.63
+                        },
+                        {
+                            "alloy": "Udimet",
+                            "Mass Gain (mg/cm²)": 3.3
+                        },
+                        {
+                            "alloy": "Wasploy",
+                            "Mass Gain (mg/cm²)": 2.51
+                        },
+                        {
+                            "alloy": "CMSX-6",
+                            "Mass Gain (mg/cm²)": 0.41
+                        },
+                        {
+                            "alloy": "CMSX-4",
+                            "Mass Gain (mg/cm²)": 0.33
+                        },
+                        {
+                            "alloy": "5Cr-A",
+                            "Mass Gain (mg/cm²)": 7.05
+                        },
+                        {
+                            "alloy": "9Cr-A",
+                            "Mass Gain (mg/cm²)": 2.01
+                        },
+                        {
+                            "alloy": "5Cr-B",
+                            "Mass Gain (mg/cm²)": 1.03
+                        }
+                    ],
+                    "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.6(b).png"
+                }
+            ]
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 7"
+        },
+        "page_content": {
+            "figure_number": "Fig. 7",
+            "caption": "Fig. 7 SEM-BSE images of the typical oxide scales in the alloys (a) 5Cr-A, (b) 9Cr-A and (c) 5Cr–B after isothermal oxidation at 1000 °C for 100 h in air, as well as (d) their XRD results.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.7.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 8"
+        },
+        "page_content": {
+            "figure_number": "Fig. 8",
+            "caption": "Fig. 8 EDS maps showing the distribution of alloying elements in the oxide layers for alloy 5Cr-A after isothermal oxidation at 1000 °C for 100 h in air.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.8.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 9"
+        },
+        "page_content": {
+            "figure_number": "Fig. 9",
+            "caption": "Fig. 9 EDS maps showing the distribution of alloying elements in the oxide layer for alloy 5Cr-B after isothermal oxidation at 1000 °C for 100 h in air.",
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.9.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 10"
+        },
+        "page_content": {
+            "figure_number": "Fig. 10",
+            "caption": "Fig. 10 Nano-hardness of the γ' phase in the experimental alloys after aging at 1000 °C for 1000 h, in comparison with the 2nd generation Ni-base single crystal superalloy CMSX-4 [41] and other Co–Ni-base alloys [30].",
+            "data": [
+                {
+                    "alloy": "CMSX-4",
+                    "Hardness of γ' phase(GPa)": 8.47
+                },
+                {
+                    "alloy": "Co-30Ni-11Al-4W-1Ta-4Ti",
+                    "Hardness of γ' phase(GPa)": 6.15
+                },
+                {
+                    "alloy": "Co-30Ni-9Al-6W-1Ta-5Ti",
+                    "Hardness of γ' phase(GPa)": 7.11
+                },
+                {
+                    "alloy": "5Cr-A",
+                    "Hardness of γ' phase(GPa)": 8.44
+                },
+                {
+                    "alloy": "9Cr-A",
+                    "Hardness of γ' phase(GPa)": 9.13
+                },
+                {
+                    "alloy": "5Cr-B",
+                    "Hardness of γ' phase(GPa)": 8.07
+                }
+            ],
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.10.png"
+        }
+    },
+    {
+        "metadata": {
+            "source": "D:/knowledge_base/Data/1.json",
+            "figures_num": "Fig. 11"
+        },
+        "page_content": {
+            "figure_number": "Fig. 11",
+            "caption": "Fig. 11 Oxide map in the Co–Ni–Al–W-base alloys with different Cr and Al concentrations, showing the ability for forming continuous Al₂O₃ layer of these alloys after isothermal oxidation at 1000 °C in air. All the displayed plots are experimental data from literatures [14, 19] or this study. All alloys in the diagram contain 30 at.% of Ni, except the marked one.",
+            "data": [
+                {
+                    "Cr (at.%)": 9,
+                    "Al (at.%)": 9,
+                    "type": "Non-continuous Al₂O₃ layer",
+                    "source": "Present study"
+                },
+                {
+                    "Cr (at.%)": 10,
+                    "Al (at.%)": 9.5,
+                    "type": "Continuous Al₂O₃ layer",
+                    "source": "Literature [14]"
+                },
+                {
+                    "Cr (at.%)": 0,
+                    "Al (at.%)": 10,
+                    "type": "Non-continuous Al₂O₃ layer",
+                    "source": "Literature [19]"
+                },
+                {
+                    "Cr (at.%)": 5,
+                    "Al (at.%)": 9,
+                    "type": "Non-continuous Al₂O₃ layer",
+                    "source": "Present study"
+                },
+                {
+                    "Cr (at.%)": 5,
+                    "Al (at.%)": 11,
+                    "type": "Continuous Al₂O₃ layer",
+                    "source": "Present study"
+                }
+            ],
+            "image_url": "https://github.com/pch-pokemon/knowledge_base/raw/main/1/Fig.11.png"
+        }
+    }
+]
